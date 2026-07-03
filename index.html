@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Телеком-радар Казахстана</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Телеком-радар Казахстана">
+        <span class="brand-mark"></span>
+        <span>Телеком-радар</span>
+      </a>
+      <nav class="nav" aria-label="Основная навигация">
+        <a href="#feed">Лента</a>
+        <a href="#summary">Сводка</a>
+        <a href="#analytics">Аналитика</a>
+        <a href="#sources">Источники</a>
+      </nav>
+      <button class="top-action" id="refreshTop" type="button">Обновить</button>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-bg" aria-hidden="true"></div>
+        <div class="hero-content">
+          <p class="eyebrow">Рабочий мониторинг открытых источников</p>
+          <h1>Телеком-радар Казахстана</h1>
+          <p class="hero-copy">
+            Сайт ищет новости по операторам Казахстана, выделяет тарифные и
+            регуляторные события, сохраняет архив и показывает короткие рабочие сводки.
+          </p>
+          <div class="hero-actions">
+            <button class="button primary" id="refreshHero" type="button">Запустить поиск</button>
+            <a class="button secondary" href="#feed">Открыть ленту</a>
+          </div>
+          <p class="status-line" id="statusLine">Готов к обновлению.</p>
+        </div>
+        <aside class="signal-panel" aria-label="Текущие сигналы мониторинга">
+          <div class="panel-header">
+            <span>Последний срез</span>
+            <strong id="lastRun">Еще не запускался</strong>
+          </div>
+          <div class="signal high">
+            <span>Срочные события</span>
+            <p><strong id="urgentCount">0</strong> новостей высокой важности</p>
+          </div>
+          <div class="signal medium">
+            <span>Тарифы и регуляторика</span>
+            <p><strong id="coreCount">0</strong> найденных событий</p>
+          </div>
+          <div class="signal low">
+            <span>Архив</span>
+            <p><strong id="archiveCount">0</strong> сохраненных карточек</p>
+          </div>
+        </aside>
+      </section>
+
+      <section class="metrics" aria-label="Ключевые показатели">
+        <div>
+          <strong id="totalMetric">0</strong>
+          <span>новостей в архиве</span>
+        </div>
+        <div>
+          <strong id="operatorsMetric">0</strong>
+          <span>операторов в ленте</span>
+        </div>
+        <div>
+          <strong id="tariffsMetric">0</strong>
+          <span>тарифных событий</span>
+        </div>
+        <div>
+          <strong id="regulatorMetric">0</strong>
+          <span>регуляторных событий</span>
+        </div>
+      </section>
+
+      <section id="feed" class="section app-section">
+        <div class="section-heading">
+          <p class="eyebrow">Живая лента</p>
+          <h2>Найденные новости</h2>
+          <p class="section-copy">
+            Данные берутся из открытых новостных RSS-источников по тематическим запросам.
+            В каждой карточке есть ссылка на первоисточник.
+          </p>
+        </div>
+
+        <div class="toolbar" aria-label="Фильтры новостей">
+          <label>
+            Поиск
+            <input id="searchInput" type="search" placeholder="тариф, Beeline, 5G..." />
+          </label>
+          <label>
+            Оператор
+            <select id="operatorFilter">
+              <option value="all">Все</option>
+            </select>
+          </label>
+          <label>
+            Тема
+            <select id="topicFilter">
+              <option value="all">Все</option>
+              <option value="Тарифы">Тарифы</option>
+              <option value="Регуляторика">Регуляторика</option>
+              <option value="Инфраструктура">Инфраструктура</option>
+              <option value="Акции">Акции</option>
+              <option value="Рынок">Рынок</option>
+              <option value="Другое">Другое</option>
+            </select>
+          </label>
+          <label>
+            Важность
+            <select id="importanceFilter">
+              <option value="all">Все</option>
+              <option value="high">Высокая</option>
+              <option value="medium">Средняя</option>
+              <option value="low">Низкая</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="feed-layout">
+          <div class="news-list" id="newsList" aria-live="polite"></div>
+          <aside class="watchlist" id="watchlist">
+            <h3>Что отслеживается</h3>
+            <ul>
+              <li>Beeline, Kcell, Activ, Tele2, Altel, Казахтелеком</li>
+              <li>Тарифы, абонентская плата, роуминг, мобильный интернет</li>
+              <li>Проверки, штрафы, качество связи, решения регуляторов</li>
+              <li>5G, инфраструктура, сделки, партнерства и рыночные отчеты</li>
+            </ul>
+          </aside>
+        </div>
+      </section>
+
+      <section id="summary" class="section split">
+        <div>
+          <p class="eyebrow">Короткая сводка</p>
+          <h2>Главное за последний срез</h2>
+          <p class="section-copy">
+            Сводка формируется автоматически из найденных карточек. Высокая важность
+            назначается тарифным изменениям, проверкам, штрафам и крупным рыночным событиям.
+          </p>
+        </div>
+        <article class="summary-card">
+          <div class="summary-top">
+            <span class="tag danger">Рабочая сводка</span>
+            <span class="date" id="summaryDate">Нет данных</span>
+          </div>
+          <div id="summaryList" class="summary-list">
+            <p class="empty">Запустите поиск, чтобы сформировать сводку.</p>
+          </div>
+        </article>
+      </section>
+
+      <section id="analytics" class="section dashboard-section">
+        <div class="section-heading">
+          <p class="eyebrow">Аналитика</p>
+          <h2>Динамика рынка</h2>
+        </div>
+        <div class="dashboard">
+          <div class="chart-card">
+            <div class="chart-header">
+              <h3>Активность по операторам</h3>
+              <span>архив</span>
+            </div>
+            <div class="bars" id="operatorBars" aria-label="Диаграмма операторов"></div>
+          </div>
+          <div class="chart-card">
+            <div class="chart-header">
+              <h3>Темы событий</h3>
+              <span>архив</span>
+            </div>
+            <div class="topic-list" id="topicStats"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="sources" class="section sources-section">
+        <div class="section-heading">
+          <p class="eyebrow">Открытые источники</p>
+          <h2>Откуда берутся данные</h2>
+          <p class="section-copy">
+            MVP использует открытые RSS-ленты новостного поиска по заранее заданным
+            запросам. Это дает быстрый рабочий мониторинг без платных API.
+          </p>
+        </div>
+        <div class="source-grid" id="sourceGrid"></div>
+      </section>
+    </main>
+  </body>
+</html>
