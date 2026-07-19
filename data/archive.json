@@ -1,7 +1,7 @@
 ﻿{
     "meta":  {
-                 "total":  232,
-                 "lastRun":  "2026-07-19T15:33:37.0661084Z"
+                 "total":  234,
+                 "lastRun":  "2026-07-19T20:32:41.8272079Z"
              },
     "items":  [
                   {
@@ -148,19 +148,6 @@
                       "savedAt":  "2026-07-16T21:46:10.0447350Z"
                   },
                   {
-                      "id":  "n_f8b780c8e571a2dc885f335cdd7e7b88",
-                      "title":  "Орган ООН запретил Казахстану взыскивать штраф в 2,3 трлн тенге с оператора Кашагана - Kursiv Media",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Орган ООН запретил Казахстану взыскивать штраф в 2,3 трлн тенге с оператора Кашагана - Kursiv Media",
-                      "link":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMXYzM3VQNE9Fc3VGODNWNDBmclpJQWRNOWJBcThHRDBHVzNFam5XclRldDhrYVMtY2hzWlZhYjQ5Y05BTkE3aGNjbmE5QmR4dzlKaUoxYUp6a3hrQ2ZqenFzU0YxSjB3LVpPLVZLNElQbFBjYktOeGZEMFJTaTNWSzV6a0FvMC1HY2o5Q2EzSjhnYnBrZEdaYnJwRzFHN01iRnA2ZVQ2bHg4M1ltVXFFY2YzYjFVYTQwcmJFNjdpQURpSXV3VVU1c9IByAFBVV95cUxPMXYzM3VQNE9Fc3VGODNWNDBmclpJQWRNOWJBcThHRDBHVzNFam5XclRldDhrYVMtY2hzWlZhYjQ5Y05BTkE3aGNjbmE5QmR4dzlKaUoxYUp6a3hrQ2ZqenFzU0YxSjB3LVpPLVZLNElQbFBjYktOeGZEMFJTaTNWSzV6a0FvMC1HY2o5Q2EzSjhnYnBrZEdaYnJwRzFHN01iRnA2ZVQ2bHg4M1ltVXFFY2YzYjFVYTQwcmJFNjdpQURpSXV3VVU1cw?oc=5",
-                      "source":  "Kursiv Media",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Регуляторика",
-                      "importance":  "high",
-                      "publishedAt":  "2026-07-16T07:27:08.0000000Z",
-                      "savedAt":  "2026-07-16T21:46:10.0472834Z"
-                  },
-                  {
                       "id":  "n_858b4f14d9503ce995fd8274a42255f6",
                       "title":  "Орган ООН запретил Казахстану взыскивать штраф в 2,3 трлн тенге с оператора Кашагана - Kursiv Media Казахстан: последние новости Казахстана и мира",
                       "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Орган ООН запретил Казахстану взыскивать штраф в 2,3 трлн тенге с оператора Кашагана - Kursiv Media Казахстан: последние новости Казахстана и мира",
@@ -172,6 +159,19 @@
                       "importance":  "high",
                       "publishedAt":  "2026-07-16T07:27:08.0000000Z",
                       "savedAt":  "2026-07-17T21:09:48.1819171Z"
+                  },
+                  {
+                      "id":  "n_f8b780c8e571a2dc885f335cdd7e7b88",
+                      "title":  "Орган ООН запретил Казахстану взыскивать штраф в 2,3 трлн тенге с оператора Кашагана - Kursiv Media",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Орган ООН запретил Казахстану взыскивать штраф в 2,3 трлн тенге с оператора Кашагана - Kursiv Media",
+                      "link":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMXYzM3VQNE9Fc3VGODNWNDBmclpJQWRNOWJBcThHRDBHVzNFam5XclRldDhrYVMtY2hzWlZhYjQ5Y05BTkE3aGNjbmE5QmR4dzlKaUoxYUp6a3hrQ2ZqenFzU0YxSjB3LVpPLVZLNElQbFBjYktOeGZEMFJTaTNWSzV6a0FvMC1HY2o5Q2EzSjhnYnBrZEdaYnJwRzFHN01iRnA2ZVQ2bHg4M1ltVXFFY2YzYjFVYTQwcmJFNjdpQURpSXV3VVU1c9IByAFBVV95cUxPMXYzM3VQNE9Fc3VGODNWNDBmclpJQWRNOWJBcThHRDBHVzNFam5XclRldDhrYVMtY2hzWlZhYjQ5Y05BTkE3aGNjbmE5QmR4dzlKaUoxYUp6a3hrQ2ZqenFzU0YxSjB3LVpPLVZLNElQbFBjYktOeGZEMFJTaTNWSzV6a0FvMC1HY2o5Q2EzSjhnYnBrZEdaYnJwRzFHN01iRnA2ZVQ2bHg4M1ltVXFFY2YzYjFVYTQwcmJFNjdpQURpSXV3VVU1cw?oc=5",
+                      "source":  "Kursiv Media",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Регуляторика",
+                      "importance":  "high",
+                      "publishedAt":  "2026-07-16T07:27:08.0000000Z",
+                      "savedAt":  "2026-07-16T21:46:10.0472834Z"
                   },
                   {
                       "id":  "n_b8dea9447268aded2781ca7aca38f0bd",
@@ -720,6 +720,19 @@
                       "savedAt":  "2026-07-11T07:23:51.3380088Z"
                   },
                   {
+                      "id":  "n_6e0fda6c86b038049a56966ea9fb8cb1",
+                      "title":  "На ₸30 млн оштрафовали операторов связи в ЗКО - 24.kz",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: На ₸30 млн оштрафовали операторов связи в ЗКО - 24.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2ctV1F4YVNsRVY1dXpIZE1hUVlOSXpIODRQWWZ5WEJ2dmVMdDYzNDRFaVJzMGZDbWVsYjhXb2R3Xy12YmQyT29sMHJFZjdRS3VoZEZYWFNMSEszWFBsa0RCUXlFdGR4aVJDLU15TzNsMDhSRUtWM19faGhSNDgyWURLbkRLZXk4cUhPcFJB0gGTAUFVX3lxTFA5Wms1T3BTaC1HV2hzbFpkZV9kV0w0Zk9GTDhNMG1iZ05vc1EzWWZGaUwzQVFRUzQwcl9CNWZTVjc2eGVHNGlrbk9FWmNnU1RMZzJYU1p0ZmFOdE1RWlVmWjFwWVYxU0g2V1o4WWt4TUl5WmdiZUJJcDNESjNTWjFEWDRPOHRVcGpvS3hlbDg3UjdrOA?oc=5",
+                      "source":  "24.kz",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Регуляторика",
+                      "importance":  "high",
+                      "publishedAt":  "2026-07-10T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-18T15:31:41.1329822Z"
+                  },
+                  {
                       "id":  "n_87d2e7a889ba25f61ed85399d944bc2c",
                       "title":  "Tele2/Altel и Yandex Qazaqstan будут совместно развивать ИИ-сервисы в Казахстане - Kursiv Media Казахстан: последние новости Казахстана и мира",
                       "summary":  "Новость: Tele2, тема \"Другое\". Проверьте источник: Tele2/Altel и Yandex Qazaqstan будут совместно развивать ИИ-сервисы в Казахстане - Kursiv Media Казахстан: последние новости Казахстана и мира",
@@ -744,19 +757,6 @@
                       "importance":  "low",
                       "publishedAt":  "2026-07-10T07:00:00.0000000Z",
                       "savedAt":  "2026-07-18T15:31:38.3879906Z"
-                  },
-                  {
-                      "id":  "n_6e0fda6c86b038049a56966ea9fb8cb1",
-                      "title":  "На ₸30 млн оштрафовали операторов связи в ЗКО - 24.kz",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: На ₸30 млн оштрафовали операторов связи в ЗКО - 24.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2ctV1F4YVNsRVY1dXpIZE1hUVlOSXpIODRQWWZ5WEJ2dmVMdDYzNDRFaVJzMGZDbWVsYjhXb2R3Xy12YmQyT29sMHJFZjdRS3VoZEZYWFNMSEszWFBsa0RCUXlFdGR4aVJDLU15TzNsMDhSRUtWM19faGhSNDgyWURLbkRLZXk4cUhPcFJB0gGTAUFVX3lxTFA5Wms1T3BTaC1HV2hzbFpkZV9kV0w0Zk9GTDhNMG1iZ05vc1EzWWZGaUwzQVFRUzQwcl9CNWZTVjc2eGVHNGlrbk9FWmNnU1RMZzJYU1p0ZmFOdE1RWlVmWjFwWVYxU0g2V1o4WWt4TUl5WmdiZUJJcDNESjNTWjFEWDRPOHRVcGpvS3hlbDg3UjdrOA?oc=5",
-                      "source":  "24.kz",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Регуляторика",
-                      "importance":  "high",
-                      "publishedAt":  "2026-07-10T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-18T15:31:41.1329822Z"
                   },
                   {
                       "id":  "n_63668af09127f175b53206690998dd3a",
@@ -835,6 +835,19 @@
                       "importance":  "medium",
                       "publishedAt":  "2026-07-10T04:18:00.0000000Z",
                       "savedAt":  "2026-07-10T11:23:50.2439818Z"
+                  },
+                  {
+                      "id":  "n_af5c687128c5b0ae8a1bc794f80ae479",
+                      "title":  "Сумма штрафов, наложенных на операторов связи в ЗКО, достигла 30 млн тенге - Казинформ",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Сумма штрафов, наложенных на операторов связи в ЗКО, достигла 30 млн тенге - Казинформ",
+                      "link":  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkVHUUI4OEtkOElkbHhON045T09jNUlxVE1HUjRHRFlfajVXV0pGMnJYTmdPTkw0MlhYM1IybVZMeERmbEE2WE1PSUxzMHpSN3lURmpOTGQyOWlwWHFvLWlpQzBYNXhEN1NHdWdtSGs5TlpUbUdjbTdleGpLWGliWjZZaTlncVhfMUNsaHJxc1lNVG56NmNCVlZMSmFGdS1lZXFvdU1NVzk1Z9IBqwFBVV95cUxNRmV0U1NoM2FNX1k5MWhMd01QenB2dmMyZ3hXS0w4MFM1a3p0UWQ3OU83Yjk2bzJRNEJiOU1oMmxDNzJUSS1sWE8wMmZtcDZVS1A5aXpZbXI2RzB0cmpvUW93TUdoaE9CUU5hVVBfeVAtbUlvemYtbDZjQVY0Y3MxaW5RcGM1ZnRwWnBtYThKd1k1TnNZd1E0cFRiUF9NN3BNZzhEM18wdUtNX1E?oc=5",
+                      "source":  "Казинформ",
+                      "sourceQuery":  "Tele2 и Altel",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Регуляторика",
+                      "importance":  "high",
+                      "publishedAt":  "2026-07-09T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-19T20:32:39.2470666Z"
                   },
                   {
                       "id":  "n_6ed049260b6eebd98be3a04d3208ad3e",
@@ -1108,6 +1121,19 @@
                       "importance":  "high",
                       "publishedAt":  "2026-07-06T08:49:47.0000000Z",
                       "savedAt":  "2026-07-06T14:07:30.8236053Z"
+                  },
+                  {
+                      "id":  "n_11b8aaac3d27da00d89c9a6450ff53e7",
+                      "title":  "Минцифры: ИИ поможет ускорить мобильный интернет в России - prospect.com.ru",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Минцифры: ИИ поможет ускорить мобильный интернет в России - prospect.com.ru",
+                      "link":  "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTFobFZPZDcyMVBkZ2FGY1p4aGRTYUh2SnNQdnRZVEtmeE02Q0pRZjE5Vy1ZeVlOeDNBTktEczNmb1EyUVoxOWlNOUktYmRUMkJpajF4THpkS2l4XzNnZFUzUmZyWEhJLVNqcTlTVnhmYm1aeHpZLWhWSmRocHU0S3lMZTlUSWJaWE9kb1c1NlFmYVJzbnN2NXBacXRKQQ?oc=5",
+                      "source":  "prospect.com.ru",
+                      "sourceQuery":  "Тарифы операторов Казахстана",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-07-06T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-19T20:32:37.3683725Z"
                   },
                   {
                       "id":  "n_d27b7b1cc9596a7af8d444e4acde97c4",
@@ -1435,19 +1461,6 @@
                       "savedAt":  "2026-07-03T17:03:38.0466237Z"
                   },
                   {
-                      "id":  "n_8f1f78e1177cda3877e0bdabbcb8ecfc",
-                      "title":  "Starlink, Orman-AI и HyperCloud: о чем Beeline Business рассказал предпринимателям Актобе - diapazon.kz",
-                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Starlink, Orman-AI и HyperCloud: о чем Beeline Business рассказал предпринимателям Актобе - diapazon.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3FFZGpwQnRSU1JRTGRaMUJJd3dOd2QtTVdfcHkya3BlTEtzb1Axc1JZZVZKTUdwUWk5bTdhRmRMWm15bGE3SnpTTTF2ckNvSjlRMGwycG9HVkxFb3NHNUlxZE8zb0VESGxYcDRFLWVEemZwVENYaC1RdnlQYVctb0ZOYlJic1pSUUI4dk0zZkNsZEx5RHh6RzJCekZ0Vkl0UGEyUDZQd3V6d3ZpVXBtQkl4SUp3d1lqQmRpOE1n?oc=5",
-                      "source":  "diapazon.kz",
-                      "sourceQuery":  "Beeline Казахстан",
-                      "operator":  "Beeline",
-                      "topic":  "Другое",
-                      "importance":  "low",
-                      "publishedAt":  "2026-07-01T06:13:49.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:39.2043135Z"
-                  },
-                  {
                       "id":  "n_b73b4c6505bb747624652f3d28c6bb42",
                       "title":  "Starlink, Orman-AI и HyperCloud: о чем Beeline Business рассказал предпринимателям Актобе - diapazon.kz",
                       "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Starlink, Orman-AI и HyperCloud: о чем Beeline Business рассказал предпринимателям Актобе - diapazon.kz",
@@ -1461,17 +1474,17 @@
                       "savedAt":  "2026-07-03T08:38:21.2773910Z"
                   },
                   {
-                      "id":  "n_8da1a9c3113f97a87b8cac29787a7134",
-                      "title":  "Казахстанцы массово отключают мобильный интернет: совпадение или последствия роста цен? - DigitalBusiness.kz",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Казахстанцы массово отключают мобильный интернет: совпадение или последствия роста цен? - DigitalBusiness.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmViWWJDcFNGZW05djdQWGsxSW5lc3o5aThzUndOMEhYMmNTRFRDQklKaUtRUHZKSHdFSmJrdlNNX0h2NkpPcll4dHZvUUxTT1l5VmNXaW9ST0NsZGhWa2NsMElpRXY1UDdPWnQyVm40Rk5INGowQzFJaXpyLVBVRzhsS3B5cUI1My1kbWhvb3ZxM2liMzRxeEhST1VTbDQzQnFzcjUyMmFTT1FiYzB0clBXQlBTelZGY0puY1RuWnAyZ2drRUVUbtIBzgFBVV95cUxPcllxVG5yN2dPQVpvdkpwbUlIOTZ1TEJVTjBJNjJwX2NFOGtMOWJ5clVNdU4wVmxreFRvTnBvV1VRVS1IQ0o5QWZlNFhfZk1zc3BRdDFnN2toRmRHd0JyUEtQV3UwZy1fNVNlMnBWbFgxWWhwV1NCd1FnOUJwaks5alNCQThkY0ZvLVlZNDF3THhLRm9UZWREal9mV3ptTE5wcm9ITGJ5ZjlVVDdnTmtBdjFuLVJrM1ZIbGJEQzNZZlJKdUlGTWx5TnZLMFlWUQ?oc=5",
-                      "source":  "DigitalBusiness.kz",
-                      "sourceQuery":  "Тарифы операторов Казахстана",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-07-01T04:32:37.0000000Z",
-                      "savedAt":  "2026-07-03T08:35:45.9420052Z"
+                      "id":  "n_8f1f78e1177cda3877e0bdabbcb8ecfc",
+                      "title":  "Starlink, Orman-AI и HyperCloud: о чем Beeline Business рассказал предпринимателям Актобе - diapazon.kz",
+                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Starlink, Orman-AI и HyperCloud: о чем Beeline Business рассказал предпринимателям Актобе - diapazon.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3FFZGpwQnRSU1JRTGRaMUJJd3dOd2QtTVdfcHkya3BlTEtzb1Axc1JZZVZKTUdwUWk5bTdhRmRMWm15bGE3SnpTTTF2ckNvSjlRMGwycG9HVkxFb3NHNUlxZE8zb0VESGxYcDRFLWVEemZwVENYaC1RdnlQYVctb0ZOYlJic1pSUUI4dk0zZkNsZEx5RHh6RzJCekZ0Vkl0UGEyUDZQd3V6d3ZpVXBtQkl4SUp3d1lqQmRpOE1n?oc=5",
+                      "source":  "diapazon.kz",
+                      "sourceQuery":  "Beeline Казахстан",
+                      "operator":  "Beeline",
+                      "topic":  "Другое",
+                      "importance":  "low",
+                      "publishedAt":  "2026-07-01T06:13:49.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:39.2043135Z"
                   },
                   {
                       "id":  "n_e078b3e88d813e359ef9b371718abc4c",
@@ -1485,6 +1498,19 @@
                       "importance":  "medium",
                       "publishedAt":  "2026-07-01T04:32:37.0000000Z",
                       "savedAt":  "2026-07-03T17:03:38.0446138Z"
+                  },
+                  {
+                      "id":  "n_8da1a9c3113f97a87b8cac29787a7134",
+                      "title":  "Казахстанцы массово отключают мобильный интернет: совпадение или последствия роста цен? - DigitalBusiness.kz",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Казахстанцы массово отключают мобильный интернет: совпадение или последствия роста цен? - DigitalBusiness.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmViWWJDcFNGZW05djdQWGsxSW5lc3o5aThzUndOMEhYMmNTRFRDQklKaUtRUHZKSHdFSmJrdlNNX0h2NkpPcll4dHZvUUxTT1l5VmNXaW9ST0NsZGhWa2NsMElpRXY1UDdPWnQyVm40Rk5INGowQzFJaXpyLVBVRzhsS3B5cUI1My1kbWhvb3ZxM2liMzRxeEhST1VTbDQzQnFzcjUyMmFTT1FiYzB0clBXQlBTelZGY0puY1RuWnAyZ2drRUVUbtIBzgFBVV95cUxPcllxVG5yN2dPQVpvdkpwbUlIOTZ1TEJVTjBJNjJwX2NFOGtMOWJ5clVNdU4wVmxreFRvTnBvV1VRVS1IQ0o5QWZlNFhfZk1zc3BRdDFnN2toRmRHd0JyUEtQV3UwZy1fNVNlMnBWbFgxWWhwV1NCd1FnOUJwaks5alNCQThkY0ZvLVlZNDF3THhLRm9UZWREal9mV3ptTE5wcm9ITGJ5ZjlVVDdnTmtBdjFuLVJrM1ZIbGJEQzNZZlJKdUlGTWx5TnZLMFlWUQ?oc=5",
+                      "source":  "DigitalBusiness.kz",
+                      "sourceQuery":  "Тарифы операторов Казахстана",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-07-01T04:32:37.0000000Z",
+                      "savedAt":  "2026-07-03T08:35:45.9420052Z"
                   },
                   {
                       "id":  "n_080ee06e98e865e45a2d0d5c3086f397",
@@ -1539,19 +1565,6 @@
                       "savedAt":  "2026-07-03T08:35:45.9420052Z"
                   },
                   {
-                      "id":  "n_faa8886001a6c81e689366f0b0b62d47",
-                      "title":  "Казахстанцы начали массово отключать мобильный интернет: что происходит? - Новости Актау и Мангистауской области",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Казахстанцы начали массово отключать мобильный интернет: что происходит? - Новости Актау и Мангистауской области",
-                      "link":  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzVqQmd1NDhtZnhJRjhFM0NsbU55WE5GdTE0di1ibG1hOW0wX3VWM09HQy1EWUdxRVpjZXpoMXF6MTFkbG91Umdua3pFTFZvTXFwUWFlSWFHc1FmVE1KS09UamxMdzkwWGFabWRYLV9kdGRWTUlteGpqeWpkYVFsTVlvN3gwbTFLc3Rqb3pqZ0NWM2dNZmRqZVVfTmJ4c2dwWW1Vb0duSGxNdXd5MDdOdGpsWGNNOWdtZ1BzR3o0b2U?oc=5",
-                      "source":  "Новости Актау и Мангистауской области",
-                      "sourceQuery":  "Тарифы операторов Казахстана",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-30T11:21:00.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:38.1067030Z"
-                  },
-                  {
                       "id":  "n_7f987c6147d4d6222b369168adae492e",
                       "title":  "Казахстанцы начали массово отключать мобильный интернет: что происходит? - Новости Актау и Мангистауской области",
                       "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Казахстанцы начали массово отключать мобильный интернет: что происходит? - Новости Актау и Мангистауской области",
@@ -1565,17 +1578,17 @@
                       "savedAt":  "2026-07-03T08:38:20.5327196Z"
                   },
                   {
-                      "id":  "n_029ab02de2d3de979674651d2bb86ad6",
-                      "title":  "Казахстанцы стали отключать мобильный интернет после роста цен на связь - Finratings",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Казахстанцы стали отключать мобильный интернет после роста цен на связь - Finratings",
-                      "link":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUMzeG9ubllmekRHaDRIQ2YyUVZnaldZWjZxemdRQ1ZmZkg5R0RrNkxCc3hmTm44ZHJaSXZRUjNmdHBIWmZzUzFZYnlWT1lnR0RqejlPdUQ2QVBRTjVxNVRKTkZOTFliZGVQVTRXanFQRUpVVmU5S3hSQThqckFfQ2Q0aFJDUnl5cGRYUG93MTYzcGV5SjJFREdHV2JPRjF1RzhXRHItT2ZSbExq0gGwAUFVX3lxTE9laW9QRXF1RkdZZ2kxdDNnd1pZMzFWMFFpTG9ldHhpV2t0bi0wMmFUTktSanJYRk9GdGdLQkM0ZDJGQ2NQVGMyWXhRVmk2Y3JaQVNxMGNfa043QVZNczlTLWpMalhjRG52dEZmSXJ6TGozQ3RoRzV3bWc2Y1ZtMV8wdXZ0cDNBdWE1aVFWZkFqWDRIZlZjU1dpLWxSRXNtWlFPdmhMWjUyWVgwLWRfWVBP?oc=5",
-                      "source":  "Finratings",
+                      "id":  "n_faa8886001a6c81e689366f0b0b62d47",
+                      "title":  "Казахстанцы начали массово отключать мобильный интернет: что происходит? - Новости Актау и Мангистауской области",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Казахстанцы начали массово отключать мобильный интернет: что происходит? - Новости Актау и Мангистауской области",
+                      "link":  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzVqQmd1NDhtZnhJRjhFM0NsbU55WE5GdTE0di1ibG1hOW0wX3VWM09HQy1EWUdxRVpjZXpoMXF6MTFkbG91Umdua3pFTFZvTXFwUWFlSWFHc1FmVE1KS09UamxMdzkwWGFabWRYLV9kdGRWTUlteGpqeWpkYVFsTVlvN3gwbTFLc3Rqb3pqZ0NWM2dNZmRqZVVfTmJ4c2dwWW1Vb0duSGxNdXd5MDdOdGpsWGNNOWdtZ1BzR3o0b2U?oc=5",
+                      "source":  "Новости Актау и Мангистауской области",
                       "sourceQuery":  "Тарифы операторов Казахстана",
                       "operator":  "Рынок Казахстана",
                       "topic":  "Инфраструктура",
                       "importance":  "medium",
-                      "publishedAt":  "2026-06-30T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-09T11:26:25.0084051Z"
+                      "publishedAt":  "2026-06-30T11:21:00.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:38.1067030Z"
                   },
                   {
                       "id":  "n_b397e4b978039b05412d4308302adc26",
@@ -1589,6 +1602,19 @@
                       "importance":  "high",
                       "publishedAt":  "2026-06-30T07:00:00.0000000Z",
                       "savedAt":  "2026-07-10T11:23:49.3493410Z"
+                  },
+                  {
+                      "id":  "n_029ab02de2d3de979674651d2bb86ad6",
+                      "title":  "Казахстанцы стали отключать мобильный интернет после роста цен на связь - Finratings",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Казахстанцы стали отключать мобильный интернет после роста цен на связь - Finratings",
+                      "link":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUMzeG9ubllmekRHaDRIQ2YyUVZnaldZWjZxemdRQ1ZmZkg5R0RrNkxCc3hmTm44ZHJaSXZRUjNmdHBIWmZzUzFZYnlWT1lnR0RqejlPdUQ2QVBRTjVxNVRKTkZOTFliZGVQVTRXanFQRUpVVmU5S3hSQThqckFfQ2Q0aFJDUnl5cGRYUG93MTYzcGV5SjJFREdHV2JPRjF1RzhXRHItT2ZSbExq0gGwAUFVX3lxTE9laW9QRXF1RkdZZ2kxdDNnd1pZMzFWMFFpTG9ldHhpV2t0bi0wMmFUTktSanJYRk9GdGdLQkM0ZDJGQ2NQVGMyWXhRVmk2Y3JaQVNxMGNfa043QVZNczlTLWpMalhjRG52dEZmSXJ6TGozQ3RoRzV3bWc2Y1ZtMV8wdXZ0cDNBdWE1aVFWZkFqWDRIZlZjU1dpLWxSRXNtWlFPdmhMWjUyWVgwLWRfWVBP?oc=5",
+                      "source":  "Finratings",
+                      "sourceQuery":  "Тарифы операторов Казахстана",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-06-30T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-09T11:26:25.0084051Z"
                   },
                   {
                       "id":  "n_0284bf82456a4c73ff7fd67e9d12a2d9",
@@ -1669,19 +1695,6 @@
                       "savedAt":  "2026-07-09T18:28:40.0870813Z"
                   },
                   {
-                      "id":  "n_88c2589ebccc53f3efff39b955bbe1f4",
-                      "title":  "Казахстанцы начали отказываться от мобильного интернета после роста тарифов - 24.kz",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: Казахстанцы начали отказываться от мобильного интернета после роста тарифов - 24.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGMyUnpXNDdrRTRtYU5GSTZLV3piOWVsNUFobzlvMzNnSFhjVklqUEc3a2hVMng3YjNSd1FLbDlwWXN1dEhRSmZ0ZVpIMHN0VkpkZUdXY2Z5N2ZBUmwwQS1iYk1zSlJLNThLLUl5YVRLbUp1ZjUyR0lxTl8wYWhjczZWT3ZEckQ3UHE5aEhrT0h6NjVHWnV3ZFhBNGx4UEFKN3Z3NjhKUFJxRFdfenFXaFZ1SjFqdw?oc=5",
-                      "source":  "24.kz",
-                      "sourceQuery":  "Тарифы операторов Казахстана",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Тарифы",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-30T04:43:17.0000000Z",
-                      "savedAt":  "2026-07-03T08:38:20.5170813Z"
-                  },
-                  {
                       "id":  "n_ac0b3d8bbd592161b642cf57b8326473",
                       "title":  "Казахстанцы начали отказываться от мобильного интернета после роста тарифов - 24.kz",
                       "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: Казахстанцы начали отказываться от мобильного интернета после роста тарифов - 24.kz",
@@ -1695,17 +1708,17 @@
                       "savedAt":  "2026-07-03T17:03:38.0922444Z"
                   },
                   {
-                      "id":  "n_cb7b20a475a3a766fc4188bbe8959af0",
-                      "title":  "После повышения цен на связь часть абонентов отказались от мобильного интернета - EnergyProm",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: После повышения цен на связь часть абонентов отказались от мобильного интернета - EnergyProm",
-                      "link":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFpBaFFLRFBQcWFnRTNUN1JvV1M5WUIwMTlUTHdGMF9za1BHTjN0STFHZVhiZWF1dDRoWWs1Ml9rZmo4Nld6YUdReXNzdWE1d0FBZXgzeVFTdU9qMVhmdGxIRURNeWVQS251d1dPRDBLdVkzc3JnbnpoSGRwZ1hIQ1FoVHZCYTMtRUJyYS10RTJGTG5qUHU0a1BETWowZndTV0hZNGdhd1BkaktKMHpSeFpzcXZmRmJ2dDZIbjBrTFJBc3VRaTFKTA?oc=5",
-                      "source":  "EnergyProm",
+                      "id":  "n_88c2589ebccc53f3efff39b955bbe1f4",
+                      "title":  "Казахстанцы начали отказываться от мобильного интернета после роста тарифов - 24.kz",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: Казахстанцы начали отказываться от мобильного интернета после роста тарифов - 24.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGMyUnpXNDdrRTRtYU5GSTZLV3piOWVsNUFobzlvMzNnSFhjVklqUEc3a2hVMng3YjNSd1FLbDlwWXN1dEhRSmZ0ZVpIMHN0VkpkZUdXY2Z5N2ZBUmwwQS1iYk1zSlJLNThLLUl5YVRLbUp1ZjUyR0lxTl8wYWhjczZWT3ZEckQ3UHE5aEhrT0h6NjVHWnV3ZFhBNGx4UEFKN3Z3NjhKUFJxRFdfenFXaFZ1SjFqdw?oc=5",
+                      "source":  "24.kz",
                       "sourceQuery":  "Тарифы операторов Казахстана",
                       "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
+                      "topic":  "Тарифы",
                       "importance":  "high",
-                      "publishedAt":  "2026-06-30T04:01:27.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:38.0864192Z"
+                      "publishedAt":  "2026-06-30T04:43:17.0000000Z",
+                      "savedAt":  "2026-07-03T08:38:20.5170813Z"
                   },
                   {
                       "id":  "n_16e916def158b519aa3824fa84f89b69",
@@ -1719,6 +1732,19 @@
                       "importance":  "high",
                       "publishedAt":  "2026-06-30T04:01:27.0000000Z",
                       "savedAt":  "2026-07-03T08:38:20.5170813Z"
+                  },
+                  {
+                      "id":  "n_cb7b20a475a3a766fc4188bbe8959af0",
+                      "title":  "После повышения цен на связь часть абонентов отказались от мобильного интернета - EnergyProm",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: После повышения цен на связь часть абонентов отказались от мобильного интернета - EnergyProm",
+                      "link":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFpBaFFLRFBQcWFnRTNUN1JvV1M5WUIwMTlUTHdGMF9za1BHTjN0STFHZVhiZWF1dDRoWWs1Ml9rZmo4Nld6YUdReXNzdWE1d0FBZXgzeVFTdU9qMVhmdGxIRURNeWVQS251d1dPRDBLdVkzc3JnbnpoSGRwZ1hIQ1FoVHZCYTMtRUJyYS10RTJGTG5qUHU0a1BETWowZndTV0hZNGdhd1BkaktKMHpSeFpzcXZmRmJ2dDZIbjBrTFJBc3VRaTFKTA?oc=5",
+                      "source":  "EnergyProm",
+                      "sourceQuery":  "Тарифы операторов Казахстана",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-30T04:01:27.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:38.0864192Z"
                   },
                   {
                       "id":  "n_e9125cafae111c388c94f48fc17bc25e",
@@ -1773,19 +1799,6 @@
                       "savedAt":  "2026-07-03T08:38:20.5170813Z"
                   },
                   {
-                      "id":  "n_c48f58a791cae24ee707c9e3f08286ad",
-                      "title":  "качество интернет-доступа и голосовой связи на туристических объектах МО - TelecomDaily",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: качество интернет-доступа и голосовой связи на туристических объектах МО - TelecomDaily",
-                      "link":  "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3hGUTlPWW85X2tzMGZVS0JQOERmSTFFWXJTM3d0cm9CSGtmcmRHUGJ4RWtLdVRDX3pPd2VPQ1ZNOUNYY1pKU0hoUlgwYXRIbEx3SVlraXFVcFJ3UVJOZ0h5SjlwOFRGVmlZMlJrUTNXeUhQemMwSXd2aUxnSS1EbWhteWN4NkJWcWVPNWR4UU9pMFJqUEh5YmtKZlR6bHJkSUhnQ3hXRWNOYUFsdXlac0t1NUk0QVBFNm5fbGNmNjJRMEJkelBWS2lWSQ?oc=5",
-                      "source":  "TelecomDaily",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-29T07:06:48.0000000Z",
-                      "savedAt":  "2026-07-03T21:45:20.4056011Z"
-                  },
-                  {
                       "id":  "n_ef56e0a88c7c13ef0de58299412ba663",
                       "title":  "качество интернет-доступа и голосовой связи на туристических объектах МО - Telecom Daily",
                       "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: качество интернет-доступа и голосовой связи на туристических объектах МО - Telecom Daily",
@@ -1810,6 +1823,32 @@
                       "importance":  "medium",
                       "publishedAt":  "2026-06-29T07:06:48.0000000Z",
                       "savedAt":  "2026-07-03T08:38:23.7960351Z"
+                  },
+                  {
+                      "id":  "n_c48f58a791cae24ee707c9e3f08286ad",
+                      "title":  "качество интернет-доступа и голосовой связи на туристических объектах МО - TelecomDaily",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: качество интернет-доступа и голосовой связи на туристических объектах МО - TelecomDaily",
+                      "link":  "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3hGUTlPWW85X2tzMGZVS0JQOERmSTFFWXJTM3d0cm9CSGtmcmRHUGJ4RWtLdVRDX3pPd2VPQ1ZNOUNYY1pKU0hoUlgwYXRIbEx3SVlraXFVcFJ3UVJOZ0h5SjlwOFRGVmlZMlJrUTNXeUhQemMwSXd2aUxnSS1EbWhteWN4NkJWcWVPNWR4UU9pMFJqUEh5YmtKZlR6bHJkSUhnQ3hXRWNOYUFsdXlac0t1NUk0QVBFNm5fbGNmNjJRMEJkelBWS2lWSQ?oc=5",
+                      "source":  "TelecomDaily",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-06-29T07:06:48.0000000Z",
+                      "savedAt":  "2026-07-03T21:45:20.4056011Z"
+                  },
+                  {
+                      "id":  "n_880f53889c954ff702dd27380d111f5e",
+                      "title":  "качество интернет-доступа и голосовой связи на туристических объектах МО - TelecomDaily",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: качество интернет-доступа и голосовой связи на туристических объектах МО - TelecomDaily",
+                      "link":  "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3hGUTlPWW85X2tzMGZVS0JQOERmSTFFWXJTM3d0cm9CSGtmcmRHUGJ4RWtLdVRDX3pPd2VPQ1ZNOUNYY1pKU0hoUlgwYXRIbEx3SVlraXFVcFJ3UVJOZ0h5SjlwOFRGVmlZMlJrUTNXeUhQemMwSXd2aUxnSS1EbWhteWN4NkJWcWVPNWR4UU9pMFJqUEh5YmtKZlR6bHJkSUhnQ3hXRWNOYUFsdXlac0t1NUk0QVBFNm5fbGNmNjJRMEJkelBWS2lWSQ?oc=5",
+                      "source":  "TelecomDaily",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-06-29T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-07T19:17:22.0533831Z"
                   },
                   {
                       "id":  "n_81d7e0e650f40979493ad86e79723f3b",
@@ -1838,19 +1877,6 @@
                       "savedAt":  "2026-07-11T07:23:49.0177835Z"
                   },
                   {
-                      "id":  "n_880f53889c954ff702dd27380d111f5e",
-                      "title":  "качество интернет-доступа и голосовой связи на туристических объектах МО - TelecomDaily",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: качество интернет-доступа и голосовой связи на туристических объектах МО - TelecomDaily",
-                      "link":  "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3hGUTlPWW85X2tzMGZVS0JQOERmSTFFWXJTM3d0cm9CSGtmcmRHUGJ4RWtLdVRDX3pPd2VPQ1ZNOUNYY1pKU0hoUlgwYXRIbEx3SVlraXFVcFJ3UVJOZ0h5SjlwOFRGVmlZMlJrUTNXeUhQemMwSXd2aUxnSS1EbWhteWN4NkJWcWVPNWR4UU9pMFJqUEh5YmtKZlR6bHJkSUhnQ3hXRWNOYUFsdXlac0t1NUk0QVBFNm5fbGNmNjJRMEJkelBWS2lWSQ?oc=5",
-                      "source":  "TelecomDaily",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-29T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-07T19:17:22.0533831Z"
-                  },
-                  {
                       "id":  "n_f10fb736990390fec5ed6d46dbefb94b",
                       "title":  "Надежная связь в разгар лета: Beeline улучшает сеть - open.kg",
                       "summary":  "Новость: Beeline, тема \"Инфраструктура\". Проверьте источник: Надежная связь в разгар лета: Beeline улучшает сеть - open.kg",
@@ -1877,19 +1903,6 @@
                       "savedAt":  "2026-07-04T15:46:44.6800503Z"
                   },
                   {
-                      "id":  "n_d9ec1b357c0ba515f502e806567778fd",
-                      "title":  "Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
-                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
-                      "link":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnU3SW83RUgya18tSDhJWDl4SjZoQ3FzNEhtR3ZGOHJyZUh0UF9hSGlsaGV1dkZtM292aE1Zdll3Ukc1TjdKbVJfZnZqZkN5YjdSU1I5VnBhZXJPQVV5TUlaa2hfLXFxUTBOQVBucTJXWlFIUGhZd3czLV9mN0ZQUUEzZnAwXzczX3RmREw4b1NjU1dOV1ZfS29qZUVKY0I2V1HSAacBQVVfeXFMTTc2ejJmOGZvbGRaZ2lVSGlXWjFQWDlPSThjWkRRMml4dTFORi1xSFpnTmtBLTdXUXhjNllLbmRMMHpHS0dLa055ZThDNGZJc2lyQldrRVRpWWREZmU1aHZLMXBPbFRtMnVaNGJvbkZHSS01aWZhWXRab0FrQ3BLT2dHWkVtVWlXQk1pWEpNVjJqcE5HTWtfYlJwcUF5emM1WFNxRkoxakU?oc=5",
-                      "source":  "Kursiv Media",
-                      "sourceQuery":  "Beeline Казахстан",
-                      "operator":  "Beeline",
-                      "topic":  "Другое",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-26T11:47:06.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:39.1863400Z"
-                  },
-                  {
                       "id":  "n_26a48ba1c6757efd91530718dfbff10e",
                       "title":  "Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
                       "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
@@ -1903,30 +1916,17 @@
                       "savedAt":  "2026-07-03T08:38:21.2773910Z"
                   },
                   {
-                      "id":  "n_1114b85aaa8f0109e2813001c228629e",
-                      "title":  "Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media Казахстан: последние новости Казахстана и мира",
-                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media Казахстан: последние новости Казахстана и мира",
+                      "id":  "n_d9ec1b357c0ba515f502e806567778fd",
+                      "title":  "Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
+                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
                       "link":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnU3SW83RUgya18tSDhJWDl4SjZoQ3FzNEhtR3ZGOHJyZUh0UF9hSGlsaGV1dkZtM292aE1Zdll3Ukc1TjdKbVJfZnZqZkN5YjdSU1I5VnBhZXJPQVV5TUlaa2hfLXFxUTBOQVBucTJXWlFIUGhZd3czLV9mN0ZQUUEzZnAwXzczX3RmREw4b1NjU1dOV1ZfS29qZUVKY0I2V1HSAacBQVVfeXFMTTc2ejJmOGZvbGRaZ2lVSGlXWjFQWDlPSThjWkRRMml4dTFORi1xSFpnTmtBLTdXUXhjNllLbmRMMHpHS0dLa055ZThDNGZJc2lyQldrRVRpWWREZmU1aHZLMXBPbFRtMnVaNGJvbkZHSS01aWZhWXRab0FrQ3BLT2dHWkVtVWlXQk1pWEpNVjJqcE5HTWtfYlJwcUF5emM1WFNxRkoxakU?oc=5",
-                      "source":  "Kursiv Media Казахстан: последние новости Казахстана и мира",
+                      "source":  "Kursiv Media",
                       "sourceQuery":  "Beeline Казахстан",
                       "operator":  "Beeline",
                       "topic":  "Другое",
                       "importance":  "low",
-                      "publishedAt":  "2026-06-26T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-14T16:43:38.9203617Z"
-                  },
-                  {
-                      "id":  "n_456ac21c9b53b2339586efd4832ff7ba",
-                      "title":  "Данные абонентов и камеры в общественных местах: какие новые правила вводят в Казахстане - BES.media",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Рынок\". Проверьте источник: Данные абонентов и камеры в общественных местах: какие новые правила вводят в Казахстане - BES.media",
-                      "link":  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTJXb0V0a0YxalVwRnJkbnFoOWxyeUw0WFI3dzNZcGNQeW0wV2dxMkVTcW53WVIyN1hMTDVkd1ltaG0xem9TLXVpWWJPdFpuV3diV3lMYWs1bTZWWTIyLVFhVUpYamV4ZDFLVFlKRWRFWXdqcGp5TVczQ2w5WmxDT0x2V3E1UzBiOFlMektrdW8xcnRTVFJ6eU5xU3VLUExwb1VoSzVEcklzVHJkVG9EcXctMVdrMEN3WGdRetIBuwFBVV95cUxPem1XWFhYVmFLcmFqQVZKaHk2Q1NNNFJVTHFnbFI4U3RISnA5c3BfMTNHcWw5Q244dTJhT3dFZkJOemJWVzdIcUIxcVVWazM5S213Z3oxZ2lsYjVGSGVtZzhreWlCQ1ZQbGhTejVjSk9WM0NGT2ZIci1GWEsyckQyQ1JWd1piWnFudEtpNThCTmlJSkxaQ3FMbk53RjJqUTlROEFOOEZwam1xRzA5bEE3RGs0ekRWQkZJdUNv?oc=5",
-                      "source":  "BES.media",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Рынок",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-26T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-13T11:43:14.7911992Z"
+                      "publishedAt":  "2026-06-26T11:47:06.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:39.1863400Z"
                   },
                   {
                       "id":  "n_a3c02a856db71272a8f7294a4728d2f1",
@@ -1942,17 +1942,17 @@
                       "savedAt":  "2026-07-04T15:46:44.6701925Z"
                   },
                   {
-                      "id":  "n_f999673d2228eff7da1ac8162b8cf829",
-                      "title":  "Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
-                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
-                      "link":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnU3SW83RUgya18tSDhJWDl4SjZoQ3FzNEhtR3ZGOHJyZUh0UF9hSGlsaGV1dkZtM292aE1Zdll3Ukc1TjdKbVJfZnZqZkN5YjdSU1I5VnBhZXJPQVV5TUlaa2hfLXFxUTBOQVBucTJXWlFIUGhZd3czLV9mN0ZQUUEzZnAwXzczX3RmREw4b1NjU1dOV1ZfS29qZUVKY0I2V1HSAacBQVVfeXFMTTc2ejJmOGZvbGRaZ2lVSGlXWjFQWDlPSThjWkRRMml4dTFORi1xSFpnTmtBLTdXUXhjNllLbmRMMHpHS0dLa055ZThDNGZJc2lyQldrRVRpWWREZmU1aHZLMXBPbFRtMnVaNGJvbkZHSS01aWZhWXRab0FrQ3BLT2dHWkVtVWlXQk1pWEpNVjJqcE5HTWtfYlJwcUF5emM1WFNxRkoxakU?oc=5",
-                      "source":  "Kursiv Media",
-                      "sourceQuery":  "Beeline Казахстан",
-                      "operator":  "Beeline",
-                      "topic":  "Другое",
+                      "id":  "n_456ac21c9b53b2339586efd4832ff7ba",
+                      "title":  "Данные абонентов и камеры в общественных местах: какие новые правила вводят в Казахстане - BES.media",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Рынок\". Проверьте источник: Данные абонентов и камеры в общественных местах: какие новые правила вводят в Казахстане - BES.media",
+                      "link":  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTJXb0V0a0YxalVwRnJkbnFoOWxyeUw0WFI3dzNZcGNQeW0wV2dxMkVTcW53WVIyN1hMTDVkd1ltaG0xem9TLXVpWWJPdFpuV3diV3lMYWs1bTZWWTIyLVFhVUpYamV4ZDFLVFlKRWRFWXdqcGp5TVczQ2w5WmxDT0x2V3E1UzBiOFlMektrdW8xcnRTVFJ6eU5xU3VLUExwb1VoSzVEcklzVHJkVG9EcXctMVdrMEN3WGdRetIBuwFBVV95cUxPem1XWFhYVmFLcmFqQVZKaHk2Q1NNNFJVTHFnbFI4U3RISnA5c3BfMTNHcWw5Q244dTJhT3dFZkJOemJWVzdIcUIxcVVWazM5S213Z3oxZ2lsYjVGSGVtZzhreWlCQ1ZQbGhTejVjSk9WM0NGT2ZIci1GWEsyckQyQ1JWd1piWnFudEtpNThCTmlJSkxaQ3FMbk53RjJqUTlROEFOOEZwam1xRzA5bEE3RGs0ekRWQkZJdUNv?oc=5",
+                      "source":  "BES.media",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Рынок",
                       "importance":  "low",
                       "publishedAt":  "2026-06-26T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-08T09:16:42.5055555Z"
+                      "savedAt":  "2026-07-13T11:43:14.7911992Z"
                   },
                   {
                       "id":  "n_c81415071718f67d2eb2584a5505a782",
@@ -1966,6 +1966,32 @@
                       "importance":  "low",
                       "publishedAt":  "2026-06-26T07:00:00.0000000Z",
                       "savedAt":  "2026-07-05T09:48:13.0407732Z"
+                  },
+                  {
+                      "id":  "n_1114b85aaa8f0109e2813001c228629e",
+                      "title":  "Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media Казахстан: последние новости Казахстана и мира",
+                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media Казахстан: последние новости Казахстана и мира",
+                      "link":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnU3SW83RUgya18tSDhJWDl4SjZoQ3FzNEhtR3ZGOHJyZUh0UF9hSGlsaGV1dkZtM292aE1Zdll3Ukc1TjdKbVJfZnZqZkN5YjdSU1I5VnBhZXJPQVV5TUlaa2hfLXFxUTBOQVBucTJXWlFIUGhZd3czLV9mN0ZQUUEzZnAwXzczX3RmREw4b1NjU1dOV1ZfS29qZUVKY0I2V1HSAacBQVVfeXFMTTc2ejJmOGZvbGRaZ2lVSGlXWjFQWDlPSThjWkRRMml4dTFORi1xSFpnTmtBLTdXUXhjNllLbmRMMHpHS0dLa055ZThDNGZJc2lyQldrRVRpWWREZmU1aHZLMXBPbFRtMnVaNGJvbkZHSS01aWZhWXRab0FrQ3BLT2dHWkVtVWlXQk1pWEpNVjJqcE5HTWtfYlJwcUF5emM1WFNxRkoxakU?oc=5",
+                      "source":  "Kursiv Media Казахстан: последние новости Казахстана и мира",
+                      "sourceQuery":  "Beeline Казахстан",
+                      "operator":  "Beeline",
+                      "topic":  "Другое",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-26T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-14T16:43:38.9203617Z"
+                  },
+                  {
+                      "id":  "n_f999673d2228eff7da1ac8162b8cf829",
+                      "title":  "Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
+                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline начал выдавать кредиты? Компания сделала важное заявление - Kursiv Media",
+                      "link":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnU3SW83RUgya18tSDhJWDl4SjZoQ3FzNEhtR3ZGOHJyZUh0UF9hSGlsaGV1dkZtM292aE1Zdll3Ukc1TjdKbVJfZnZqZkN5YjdSU1I5VnBhZXJPQVV5TUlaa2hfLXFxUTBOQVBucTJXWlFIUGhZd3czLV9mN0ZQUUEzZnAwXzczX3RmREw4b1NjU1dOV1ZfS29qZUVKY0I2V1HSAacBQVVfeXFMTTc2ejJmOGZvbGRaZ2lVSGlXWjFQWDlPSThjWkRRMml4dTFORi1xSFpnTmtBLTdXUXhjNllLbmRMMHpHS0dLa055ZThDNGZJc2lyQldrRVRpWWREZmU1aHZLMXBPbFRtMnVaNGJvbkZHSS01aWZhWXRab0FrQ3BLT2dHWkVtVWlXQk1pWEpNVjJqcE5HTWtfYlJwcUF5emM1WFNxRkoxakU?oc=5",
+                      "source":  "Kursiv Media",
+                      "sourceQuery":  "Beeline Казахстан",
+                      "operator":  "Beeline",
+                      "topic":  "Другое",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-26T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-08T09:16:42.5055555Z"
                   },
                   {
                       "id":  "n_81923450779839b6e69791d0e6bce017",
@@ -2007,32 +2033,6 @@
                       "savedAt":  "2026-07-03T17:03:43.6263460Z"
                   },
                   {
-                      "id":  "n_6a37fb5fc9988a1463d591004616db42",
-                      "title":  "Крупному сотовому оператору грозит штраф за перевод абонентов на более дорогой тарифный план - Новости Беларуси | БелТА",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: Крупному сотовому оператору грозит штраф за перевод абонентов на более дорогой тарифный план - Новости Беларуси | БелТА",
-                      "link":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXh0QU03eGkzS0NqUVZFN0FKMnVCd2d0QTNINGlRYWt1QjFOTnVrQXM5T3RKbmQ1cU9vNEF0eFhYcW0wLTFMODd6WDF1eVdVakxFWVVGN2VoT1Q5ajVmeTgtQ2lveTU1RFN3X0JJTHRoS1l5ZXEzTXA1WjRIMnlDenlTdWRrUTRLek96YkdUblVfUUkyUm5jNmhHaEZlU1FHZmF6VU8tSFZGZUtYX1ZBRTN5OWZuZDczM3otX2JiOE5UWlZCS2NBdm9Pc24wRnE2bmc?oc=5",
-                      "source":  "Новости Беларуси | БелТА",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Тарифы",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-25T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-05T21:37:53.4350558Z"
-                  },
-                  {
-                      "id":  "n_27fad3346ec39213b04d331caa60f302",
-                      "title":  "Крупному сотовому оператору грозит штраф за перевод абонентов на более дорогой тарифный план - БелТА",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: Крупному сотовому оператору грозит штраф за перевод абонентов на более дорогой тарифный план - БелТА",
-                      "link":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXh0QU03eGkzS0NqUVZFN0FKMnVCd2d0QTNINGlRYWt1QjFOTnVrQXM5T3RKbmQ1cU9vNEF0eFhYcW0wLTFMODd6WDF1eVdVakxFWVVGN2VoT1Q5ajVmeTgtQ2lveTU1RFN3X0JJTHRoS1l5ZXEzTXA1WjRIMnlDenlTdWRrUTRLek96YkdUblVfUUkyUm5jNmhHaEZlU1FHZmF6VU8tSFZGZUtYX1ZBRTN5OWZuZDczM3otX2JiOE5UWlZCS2NBdm9Pc24wRnE2bmc?oc=5",
-                      "source":  "БелТА",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Тарифы",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-25T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-18T07:11:15.9820836Z"
-                  },
-                  {
                       "id":  "n_f03198e37a028b34c19c882e991b3dd2",
                       "title":  "От 5G до ЦОДов: «Казахтелеком» усиливает цифровую инфраструктуру страны - Kursiv Media Казахстан: последние новости Казахстана и мира",
                       "summary":  "Важный сигнал: Казахтелеком, тема \"Инфраструктура\". Проверьте источник: От 5G до ЦОДов: «Казахтелеком» усиливает цифровую инфраструктуру страны - Kursiv Media Казахстан: последние новости Казахстана и мира",
@@ -2059,6 +2059,32 @@
                       "savedAt":  "2026-07-10T11:23:53.0964835Z"
                   },
                   {
+                      "id":  "n_27fad3346ec39213b04d331caa60f302",
+                      "title":  "Крупному сотовому оператору грозит штраф за перевод абонентов на более дорогой тарифный план - БелТА",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: Крупному сотовому оператору грозит штраф за перевод абонентов на более дорогой тарифный план - БелТА",
+                      "link":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXh0QU03eGkzS0NqUVZFN0FKMnVCd2d0QTNINGlRYWt1QjFOTnVrQXM5T3RKbmQ1cU9vNEF0eFhYcW0wLTFMODd6WDF1eVdVakxFWVVGN2VoT1Q5ajVmeTgtQ2lveTU1RFN3X0JJTHRoS1l5ZXEzTXA1WjRIMnlDenlTdWRrUTRLek96YkdUblVfUUkyUm5jNmhHaEZlU1FHZmF6VU8tSFZGZUtYX1ZBRTN5OWZuZDczM3otX2JiOE5UWlZCS2NBdm9Pc24wRnE2bmc?oc=5",
+                      "source":  "БелТА",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Тарифы",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-25T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-18T07:11:15.9820836Z"
+                  },
+                  {
+                      "id":  "n_6a37fb5fc9988a1463d591004616db42",
+                      "title":  "Крупному сотовому оператору грозит штраф за перевод абонентов на более дорогой тарифный план - Новости Беларуси | БелТА",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: Крупному сотовому оператору грозит штраф за перевод абонентов на более дорогой тарифный план - Новости Беларуси | БелТА",
+                      "link":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXh0QU03eGkzS0NqUVZFN0FKMnVCd2d0QTNINGlRYWt1QjFOTnVrQXM5T3RKbmQ1cU9vNEF0eFhYcW0wLTFMODd6WDF1eVdVakxFWVVGN2VoT1Q5ajVmeTgtQ2lveTU1RFN3X0JJTHRoS1l5ZXEzTXA1WjRIMnlDenlTdWRrUTRLek96YkdUblVfUUkyUm5jNmhHaEZlU1FHZmF6VU8tSFZGZUtYX1ZBRTN5OWZuZDczM3otX2JiOE5UWlZCS2NBdm9Pc24wRnE2bmc?oc=5",
+                      "source":  "Новости Беларуси | БелТА",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Тарифы",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-25T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-05T21:37:53.4350558Z"
+                  },
+                  {
                       "id":  "n_369d5813add7d15e388189c24f52a46c",
                       "title":  "В Зайсанском районе рассчитывают добиться 100% покрытия мобильной связью - Устинка",
                       "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: В Зайсанском районе рассчитывают добиться 100% покрытия мобильной связью - Устинка",
@@ -2072,19 +2098,6 @@
                       "savedAt":  "2026-07-13T11:43:12.2471989Z"
                   },
                   {
-                      "id":  "n_e653dfc12808d17474fa3e297d54feab",
-                      "title":  "«БУЛАТ» расширяет частотный диапазон: готовы новые базовые станции - Телеком Таймс",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: «БУЛАТ» расширяет частотный диапазон: готовы новые базовые станции - Телеком Таймс",
-                      "link":  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85cDlxeUUwZktSZWJsUGNfM2Vaa2dEU0Q4V2xPbkdOaXNIVlRFaURZaFZlcDRXRTAtT2FPWGFJRTVEZllEUEVsNmpEVFV1eXZUVmc4NHEzRUFlcm9BbFhWblRSZXNvQQ?oc=5",
-                      "source":  "Телеком Таймс",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-23T20:23:35.0000000Z",
-                      "savedAt":  "2026-07-03T08:38:23.7960351Z"
-                  },
-                  {
                       "id":  "n_535921588a65912079ceaf3ca0ace792",
                       "title":  "«БУЛАТ» расширяет частотный диапазон: готовы новые базовые станции - Телеком Таймс",
                       "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: «БУЛАТ» расширяет частотный диапазон: готовы новые базовые станции - Телеком Таймс",
@@ -2096,6 +2109,19 @@
                       "importance":  "low",
                       "publishedAt":  "2026-06-23T20:23:35.0000000Z",
                       "savedAt":  "2026-07-03T21:45:20.4136417Z"
+                  },
+                  {
+                      "id":  "n_e653dfc12808d17474fa3e297d54feab",
+                      "title":  "«БУЛАТ» расширяет частотный диапазон: готовы новые базовые станции - Телеком Таймс",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: «БУЛАТ» расширяет частотный диапазон: готовы новые базовые станции - Телеком Таймс",
+                      "link":  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85cDlxeUUwZktSZWJsUGNfM2Vaa2dEU0Q4V2xPbkdOaXNIVlRFaURZaFZlcDRXRTAtT2FPWGFJRTVEZllEUEVsNmpEVFV1eXZUVmc4NHEzRUFlcm9BbFhWblRSZXNvQQ?oc=5",
+                      "source":  "Телеком Таймс",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-23T20:23:35.0000000Z",
+                      "savedAt":  "2026-07-03T08:38:23.7960351Z"
                   },
                   {
                       "id":  "n_94f00d28e108bab5f6297f50909502f3",
@@ -2124,32 +2150,6 @@
                       "savedAt":  "2026-07-03T17:03:43.6283720Z"
                   },
                   {
-                      "id":  "n_1a3f41fa7938315237032243a58a8b32",
-                      "title":  "Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Aysor.",
-                      "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Aysor.",
-                      "link":  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlA4SHpMMXJQUThqVW9sNy1KbFc2OFMyVDU1aXlBZlBiYzJhc3FPaGFmemFieS1KNkUyMFE5cm50RjJla0UtV3ZDTlN3WDZhcUs3OTRhUlJ3SHNmcjhndnVacm0xZzJ3dlFYdy03UUQxR3pyazNmX3pfZF8tZnRucmR4WXA?oc=5",
-                      "source":  "Aysor.",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Kcell / Activ",
-                      "topic":  "Другое",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-22T12:08:00.0000000Z",
-                      "savedAt":  "2026-07-11T07:23:52.6375803Z"
-                  },
-                  {
-                      "id":  "n_71b07fa718dcbc4a0fb66e2ccf406c8a",
-                      "title":  "Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Այսօր` թարմ լուրեր Հայաստանից",
-                      "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Այսօր` թարմ լուրեր Հայաստանից",
-                      "link":  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlA4SHpMMXJQUThqVW9sNy1KbFc2OFMyVDU1aXlBZlBiYzJhc3FPaGFmemFieS1KNkUyMFE5cm50RjJla0UtV3ZDTlN3WDZhcUs3OTRhUlJ3SHNmcjhndnVacm0xZzJ3dlFYdy03UUQxR3pyazNmX3pfZF8tZnRucmR4WXA?oc=5",
-                      "source":  "Այսօր` թարմ լուրեր Հայաստանից",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Kcell / Activ",
-                      "topic":  "Другое",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-22T12:08:00.0000000Z",
-                      "savedAt":  "2026-07-14T07:24:41.0059102Z"
-                  },
-                  {
                       "id":  "n_b3b884004b605d9786cdc9b39cfff8a1",
                       "title":  "Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Aysor.am",
                       "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Aysor.am",
@@ -2174,6 +2174,32 @@
                       "importance":  "low",
                       "publishedAt":  "2026-06-22T12:08:00.0000000Z",
                       "savedAt":  "2026-07-18T15:31:39.7952004Z"
+                  },
+                  {
+                      "id":  "n_71b07fa718dcbc4a0fb66e2ccf406c8a",
+                      "title":  "Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Այսօր` թարմ լուրեր Հայաստանից",
+                      "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Այսօր` թարմ լուրեր Հայաստանից",
+                      "link":  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlA4SHpMMXJQUThqVW9sNy1KbFc2OFMyVDU1aXlBZlBiYzJhc3FPaGFmemFieS1KNkUyMFE5cm50RjJla0UtV3ZDTlN3WDZhcUs3OTRhUlJ3SHNmcjhndnVacm0xZzJ3dlFYdy03UUQxR3pyazNmX3pfZF8tZnRucmR4WXA?oc=5",
+                      "source":  "Այսօր` թարմ լուրեր Հայաստանից",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Kcell / Activ",
+                      "topic":  "Другое",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-22T12:08:00.0000000Z",
+                      "savedAt":  "2026-07-14T07:24:41.0059102Z"
+                  },
+                  {
+                      "id":  "n_1a3f41fa7938315237032243a58a8b32",
+                      "title":  "Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Aysor.",
+                      "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Зафиксирован резкий рост медиаактивности и использование резко поляризованных нарративов вокруг соглашения между Telecom Armenia и AzerTelecom — Папян - Aysor.",
+                      "link":  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlA4SHpMMXJQUThqVW9sNy1KbFc2OFMyVDU1aXlBZlBiYzJhc3FPaGFmemFieS1KNkUyMFE5cm50RjJla0UtV3ZDTlN3WDZhcUs3OTRhUlJ3SHNmcjhndnVacm0xZzJ3dlFYdy03UUQxR3pyazNmX3pfZF8tZnRucmR4WXA?oc=5",
+                      "source":  "Aysor.",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Kcell / Activ",
+                      "topic":  "Другое",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-22T12:08:00.0000000Z",
+                      "savedAt":  "2026-07-11T07:23:52.6375803Z"
                   },
                   {
                       "id":  "n_1d94ec4747124886b1f009bd852b6588",
@@ -2241,32 +2267,6 @@
                       "savedAt":  "2026-07-03T17:03:41.0162219Z"
                   },
                   {
-                      "id":  "n_f140f4956dba67d83fd021f1ef551609",
-                      "title":  "Team Telecom Armenia и «Азертелеком» договорились о транзите интернета через территории Армении и Азербайджана - newsarmenia.am",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Team Telecom Armenia и «Азертелеком» договорились о транзите интернета через территории Армении и Азербайджана - newsarmenia.am",
-                      "link":  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGNGcF9VT3JTd1lkZXdyeV9zb2JnUnhDbFFkRHN6T3FEYTRpLXBpLTl3bVZpX3hYZ3F3SmZPVzJjU242bEZ6WHdtbTJLenlicVZSbERPbGNnY2J4LThfTzgtR2p5R3BSeEU3b1Nxa0t4TU5XZXpTZUdGbTRGUGY1RnFqTE9YeVYtOW1MZkVfUU9fQ0JZX1NOZzc2WS1xbXFFWndYUEp5TVdVZ0pQSk1HMEQ3TW5NUmkybW1JSUxRZXlIRWV4QlRxZkhUR3dudmZsY0hn?oc=5",
-                      "source":  "newsarmenia.am",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-22T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-15T07:30:25.2640766Z"
-                  },
-                  {
-                      "id":  "n_4866fc6a7a5356892a9b03704417ce1d",
-                      "title":  "С 28 июня абонентам в Казахстане дают право на тишину - Новости Актау и Мангистауской области",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Рынок\". Проверьте источник: С 28 июня абонентам в Казахстане дают право на тишину - Новости Актау и Мангистауской области",
-                      "link":  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1VUY0ZyMzMxMWdMZEdQWnFrZzh1Mi1FSmc3ZnZ3bjhzZXcxb3N2QVNMd3VKSEs1REtfa0g2ZkZfNkJ0NU9NSUZ5ekptanY2X0lpbjR6ZFVDUTE1ZG5Za1VidUhubEJ2WWRoTHB4aTBGdkdfWVozLTJOam51VnJaMEo3eTFxVWF5azRyUTktSnlVNm5TZFRFcG13cGJZVE9XVVhUbVF2WnFxdw?oc=5",
-                      "source":  "Новости Актау и Мангистауской области",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Рынок",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-22T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-05T09:48:14.3460426Z"
-                  },
-                  {
                       "id":  "n_f006360c7b144323defd982cc2bfa46d",
                       "title":  "Tele2 получил четыре награды на международных фестивалях - DigitalBusiness.kz",
                       "summary":  "Новость: Tele2, тема \"Другое\". Проверьте источник: Tele2 получил четыре награды на международных фестивалях - DigitalBusiness.kz",
@@ -2278,6 +2278,19 @@
                       "importance":  "low",
                       "publishedAt":  "2026-06-22T07:00:00.0000000Z",
                       "savedAt":  "2026-07-12T20:28:07.1563762Z"
+                  },
+                  {
+                      "id":  "n_f140f4956dba67d83fd021f1ef551609",
+                      "title":  "Team Telecom Armenia и «Азертелеком» договорились о транзите интернета через территории Армении и Азербайджана - newsarmenia.am",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Team Telecom Armenia и «Азертелеком» договорились о транзите интернета через территории Армении и Азербайджана - newsarmenia.am",
+                      "link":  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGNGcF9VT3JTd1lkZXdyeV9zb2JnUnhDbFFkRHN6T3FEYTRpLXBpLTl3bVZpX3hYZ3F3SmZPVzJjU242bEZ6WHdtbTJLenlicVZSbERPbGNnY2J4LThfTzgtR2p5R3BSeEU3b1Nxa0t4TU5XZXpTZUdGbTRGUGY1RnFqTE9YeVYtOW1MZkVfUU9fQ0JZX1NOZzc2WS1xbXFFWndYUEp5TVdVZ0pQSk1HMEQ3TW5NUmkybW1JSUxRZXlIRWV4QlRxZkhUR3dudmZsY0hn?oc=5",
+                      "source":  "newsarmenia.am",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-06-22T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-15T07:30:25.2640766Z"
                   },
                   {
                       "id":  "n_a84a01368d529bb6814ac54d14797270",
@@ -2293,30 +2306,17 @@
                       "savedAt":  "2026-07-13T11:43:13.5754203Z"
                   },
                   {
-                      "id":  "n_13889822dbb9b14203a127e269a811fd",
-                      "title":  "Казахстан меняет правила игры на телеком-рынке: от развития дата-центров до проверки смартфонов по IMEI - tribune.kz",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Казахстан меняет правила игры на телеком-рынке: от развития дата-центров до проверки смартфонов по IMEI - tribune.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFZUS1Z3X3ZSWmJreTRqc2dQc1RhQTBmdkYxbXlwM0lIM1ozOUpwV2Y2X1o5UFB5b1VEeEF6cUFPb2EycVhwMG4wMndhRjVnN2kzbFpFUVpZcTNMYl9yZlFBQldJVDc4UURJYzlaQkhsVV90VkVzdzdYX2l5VmxSOXBMYjh4N2RWRlU2SmZtRlhuc3BEMTJHb1JqbjdBVmtWWTBMZmItVTNERzVkal9hQjRrVjFNNEt1SXkxajFWcl9XbGM?oc=5",
-                      "source":  "tribune.kz",
+                      "id":  "n_4866fc6a7a5356892a9b03704417ce1d",
+                      "title":  "С 28 июня абонентам в Казахстане дают право на тишину - Новости Актау и Мангистауской области",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Рынок\". Проверьте источник: С 28 июня абонентам в Казахстане дают право на тишину - Новости Актау и Мангистауской области",
+                      "link":  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1VUY0ZyMzMxMWdMZEdQWnFrZzh1Mi1FSmc3ZnZ3bjhzZXcxb3N2QVNMd3VKSEs1REtfa0g2ZkZfNkJ0NU9NSUZ5ekptanY2X0lpbjR6ZFVDUTE1ZG5Za1VidUhubEJ2WWRoTHB4aTBGdkdfWVozLTJOam51VnJaMEo3eTFxVWF5azRyUTktSnlVNm5TZFRFcG13cGJZVE9XVVhUbVF2WnFxdw?oc=5",
+                      "source":  "Новости Актау и Мангистауской области",
                       "sourceQuery":  "Регуляторика телеком Казахстан",
                       "operator":  "Рынок Казахстана",
-                      "topic":  "Регуляторика",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-22T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-11T15:33:22.0737148Z"
-                  },
-                  {
-                      "id":  "n_ea756d4d5e0c0a20306df26dbb1bc5cf",
-                      "title":  "Beeline тоже начнет выдавать кредиты: Еще один канал для закредитованности казахстанцев? - Finratings",
-                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline тоже начнет выдавать кредиты: Еще один канал для закредитованности казахстанцев? - Finratings",
-                      "link":  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWlLVDRDSlFyaGhXRWVPaXA3Y3ZYV0stX1RTSzhUR3ZVRGRhMTJTSUp6WURPT1VYaGhOMG5vcmlwWHBCSGlCT3M4SkRObWR1dm5TUXN2ZnRlQnNVZGVodWJ1X2h6NTBLaEhxM1Y2UkFQNFlzZG5zSDhFRHlfQzBoeXlaNVlEeWszWU8zeHN1cjFhZWtPQ0lJWDBHLXRTZmhqMzd2VkRlODJjdWZJN01BVV8tR1JBS2ctWU5ZYnJhbkZBWVI4SkHSAcoBQVVfeXFMUC1WVjFYZ2o4NzlRbDBtajMzSjMzLWVQaGtDTXoxRmx1R05hWkUzc2VCcVJFOXF5bjMwbExXY3RSbUdJZFp1SHBLNHFZTXF2N3lwVGlhTHZkN2wxS0Iyb05YLTdsRVI3QnFkejNQaWhVeGdWc3dlT0FrbG8wUGpkd3NhRW5DQ0o2NzgyanZMLVd2X19INWxrTy0zWFNxSWZteFVnUnh5OXRaVGUxYzRjX0lnYU5qdlhVelo1SHFkSGVtZ0k4Z09lYk1DQQ?oc=5",
-                      "source":  "Finratings",
-                      "sourceQuery":  "Beeline Казахстан",
-                      "operator":  "Beeline",
-                      "topic":  "Другое",
+                      "topic":  "Рынок",
                       "importance":  "low",
                       "publishedAt":  "2026-06-22T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-16T21:46:06.1072783Z"
+                      "savedAt":  "2026-07-05T09:48:14.3460426Z"
                   },
                   {
                       "id":  "n_b266240451f92f2bc522818f1f232cf4",
@@ -2330,6 +2330,19 @@
                       "importance":  "medium",
                       "publishedAt":  "2026-06-22T07:00:00.0000000Z",
                       "savedAt":  "2026-07-14T21:32:46.7651061Z"
+                  },
+                  {
+                      "id":  "n_ea756d4d5e0c0a20306df26dbb1bc5cf",
+                      "title":  "Beeline тоже начнет выдавать кредиты: Еще один канал для закредитованности казахстанцев? - Finratings",
+                      "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Beeline тоже начнет выдавать кредиты: Еще один канал для закредитованности казахстанцев? - Finratings",
+                      "link":  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWlLVDRDSlFyaGhXRWVPaXA3Y3ZYV0stX1RTSzhUR3ZVRGRhMTJTSUp6WURPT1VYaGhOMG5vcmlwWHBCSGlCT3M4SkRObWR1dm5TUXN2ZnRlQnNVZGVodWJ1X2h6NTBLaEhxM1Y2UkFQNFlzZG5zSDhFRHlfQzBoeXlaNVlEeWszWU8zeHN1cjFhZWtPQ0lJWDBHLXRTZmhqMzd2VkRlODJjdWZJN01BVV8tR1JBS2ctWU5ZYnJhbkZBWVI4SkHSAcoBQVVfeXFMUC1WVjFYZ2o4NzlRbDBtajMzSjMzLWVQaGtDTXoxRmx1R05hWkUzc2VCcVJFOXF5bjMwbExXY3RSbUdJZFp1SHBLNHFZTXF2N3lwVGlhTHZkN2wxS0Iyb05YLTdsRVI3QnFkejNQaWhVeGdWc3dlT0FrbG8wUGpkd3NhRW5DQ0o2NzgyanZMLVd2X19INWxrTy0zWFNxSWZteFVnUnh5OXRaVGUxYzRjX0lnYU5qdlhVelo1SHFkSGVtZ0k4Z09lYk1DQQ?oc=5",
+                      "source":  "Finratings",
+                      "sourceQuery":  "Beeline Казахстан",
+                      "operator":  "Beeline",
+                      "topic":  "Другое",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-22T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-16T21:46:06.1072783Z"
                   },
                   {
                       "id":  "n_37edd0486635e6313d51c42048619d41",
@@ -2358,6 +2371,19 @@
                       "savedAt":  "2026-07-13T18:19:44.0579822Z"
                   },
                   {
+                      "id":  "n_13889822dbb9b14203a127e269a811fd",
+                      "title":  "Казахстан меняет правила игры на телеком-рынке: от развития дата-центров до проверки смартфонов по IMEI - tribune.kz",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Казахстан меняет правила игры на телеком-рынке: от развития дата-центров до проверки смартфонов по IMEI - tribune.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFZUS1Z3X3ZSWmJreTRqc2dQc1RhQTBmdkYxbXlwM0lIM1ozOUpwV2Y2X1o5UFB5b1VEeEF6cUFPb2EycVhwMG4wMndhRjVnN2kzbFpFUVpZcTNMYl9yZlFBQldJVDc4UURJYzlaQkhsVV90VkVzdzdYX2l5VmxSOXBMYjh4N2RWRlU2SmZtRlhuc3BEMTJHb1JqbjdBVmtWWTBMZmItVTNERzVkal9hQjRrVjFNNEt1SXkxajFWcl9XbGM?oc=5",
+                      "source":  "tribune.kz",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Регуляторика",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-22T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-11T15:33:22.0737148Z"
+                  },
+                  {
                       "id":  "n_3b000df2c8290ded14678cb9b6e40b64",
                       "title":  "Казахтелеком уволит тысячи сотрудников? - Profit.kz",
                       "summary":  "Новость: Казахтелеком, тема \"Другое\". Проверьте источник: Казахтелеком уволит тысячи сотрудников? - Profit.kz",
@@ -2371,17 +2397,17 @@
                       "savedAt":  "2026-07-18T07:11:14.7732605Z"
                   },
                   {
-                      "id":  "n_9e04ffc3f465637599495ddd4661b696",
-                      "title":  "Часть абонентов Степногорска и 10 районов Акмолинской области остались на несколько часов без связи - Казинформ",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Рынок\". Проверьте источник: Часть абонентов Степногорска и 10 районов Акмолинской области остались на несколько часов без связи - Казинформ",
-                      "link":  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNk1hWTV6UFRuUTVnSmZlbF93bHF4QkxPanRJNjVHbm1WSHk4X1ZFamdSUmN2OXU3NWFYNmRsWVdIWUVjUXpxZk9uRGxlRGxpN0hkOHVkZXllYlFxYnhTaW9HX1k4X3M1cGx3TWFpREd3WGFRYkpwYWtfUklsTV9IS2RSNW9EZkc2QlhNdXFRcDBFcTRWSjFlejllRG9TaFAwblNDUFBqSHNvdFBEelAyOVl2NUrSAbYBQVVfeXFMT1k2Nld0T19zWldMOUZWSUdoam9keEQzcDY4dW4wTFJXa3VyMWtvZHNWTEtyQlgtVU9wc2Z3YTF3b0ZpOE9nSjM4YnQxWEdkZS1FdmkxRVlGbWU1U1YzSDIwWnVnSndlQzV5MERVOVBJdkF1NWJMVHZnd09WX2t4VmlCX3lOclJmX2t3NFpzLXRObmsyVGdPSHpUdWhtZWJvU2FvRW9JYVpmbjQ3SG9NV2toSzNHUVE?oc=5",
-                      "source":  "Казинформ",
+                      "id":  "n_f5dd5c08ab30727b4f26a98b82b24dca",
+                      "title":  "Часть абонентов Степногорска и районов Акмолинской области осталась без связи - Kazakhstan Today",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Рынок\". Проверьте источник: Часть абонентов Степногорска и районов Акмолинской области осталась без связи - Kazakhstan Today",
+                      "link":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGV3NDVJYnFKZnBrdWQ2ZHJIYmZ5SU5iRVVGZkltcmx5MFM4d253VHM2ZXZsZ3BYZWZfUTFfengxUmxiLXVKUTlKVDUwTFVoUkJiYVVPSmlIdGpfd0t1WTQySHRpZXhsWElxUU1zeGx5Rncyd2d0NGIwTkQtN0VIbHBzbTltb3Z5X0VOWDdYaG1IYVpPR3FBOUc0cnQ?oc=5",
+                      "source":  "Kazakhstan Today",
                       "sourceQuery":  "Казахтелеком",
                       "operator":  "Рынок Казахстана",
                       "topic":  "Рынок",
                       "importance":  "low",
                       "publishedAt":  "2026-06-19T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T08:35:51.0085048Z"
+                      "savedAt":  "2026-07-06T22:45:55.3608006Z"
                   },
                   {
                       "id":  "n_bb4ccef71b38b18cd65891f69c9c5cb9",
@@ -2397,6 +2423,19 @@
                       "savedAt":  "2026-07-03T17:03:42.3166341Z"
                   },
                   {
+                      "id":  "n_9e04ffc3f465637599495ddd4661b696",
+                      "title":  "Часть абонентов Степногорска и 10 районов Акмолинской области остались на несколько часов без связи - Казинформ",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Рынок\". Проверьте источник: Часть абонентов Степногорска и 10 районов Акмолинской области остались на несколько часов без связи - Казинформ",
+                      "link":  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNk1hWTV6UFRuUTVnSmZlbF93bHF4QkxPanRJNjVHbm1WSHk4X1ZFamdSUmN2OXU3NWFYNmRsWVdIWUVjUXpxZk9uRGxlRGxpN0hkOHVkZXllYlFxYnhTaW9HX1k4X3M1cGx3TWFpREd3WGFRYkpwYWtfUklsTV9IS2RSNW9EZkc2QlhNdXFRcDBFcTRWSjFlejllRG9TaFAwblNDUFBqSHNvdFBEelAyOVl2NUrSAbYBQVVfeXFMT1k2Nld0T19zWldMOUZWSUdoam9keEQzcDY4dW4wTFJXa3VyMWtvZHNWTEtyQlgtVU9wc2Z3YTF3b0ZpOE9nSjM4YnQxWEdkZS1FdmkxRVlGbWU1U1YzSDIwWnVnSndlQzV5MERVOVBJdkF1NWJMVHZnd09WX2t4VmlCX3lOclJmX2t3NFpzLXRObmsyVGdPSHpUdWhtZWJvU2FvRW9JYVpmbjQ3SG9NV2toSzNHUVE?oc=5",
+                      "source":  "Казинформ",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Рынок",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-19T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T08:35:51.0085048Z"
+                  },
+                  {
                       "id":  "n_f633e52d56935ee59c6070c22a8dd984",
                       "title":  "Tele2 получил четыре награды на международных фестивалях - Новости Zakon.kz",
                       "summary":  "Новость: Tele2, тема \"Другое\". Проверьте источник: Tele2 получил четыре награды на международных фестивалях - Новости Zakon.kz",
@@ -2408,19 +2447,6 @@
                       "importance":  "low",
                       "publishedAt":  "2026-06-19T07:00:00.0000000Z",
                       "savedAt":  "2026-07-04T15:46:47.1477287Z"
-                  },
-                  {
-                      "id":  "n_f5dd5c08ab30727b4f26a98b82b24dca",
-                      "title":  "Часть абонентов Степногорска и районов Акмолинской области осталась без связи - Kazakhstan Today",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Рынок\". Проверьте источник: Часть абонентов Степногорска и районов Акмолинской области осталась без связи - Kazakhstan Today",
-                      "link":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGV3NDVJYnFKZnBrdWQ2ZHJIYmZ5SU5iRVVGZkltcmx5MFM4d253VHM2ZXZsZ3BYZWZfUTFfengxUmxiLXVKUTlKVDUwTFVoUkJiYVVPSmlIdGpfd0t1WTQySHRpZXhsWElxUU1zeGx5Rncyd2d0NGIwTkQtN0VIbHBzbTltb3Z5X0VOWDdYaG1IYVpPR3FBOUc0cnQ?oc=5",
-                      "source":  "Kazakhstan Today",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Рынок",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-19T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-06T22:45:55.3608006Z"
                   },
                   {
                       "id":  "n_a37910cd90e2a5a83644fe97a1c8a854",
@@ -2449,19 +2475,6 @@
                       "savedAt":  "2026-07-03T08:35:48.4716421Z"
                   },
                   {
-                      "id":  "n_1a39f3fb23796fa6537f70c406467fde",
-                      "title":  "Дивиденды \"Казахтелекома\" сократились более чем в 80 раз, несмотря на рост прибыли - BES.media",
-                      "summary":  "Новость: Казахтелеком, тема \"Другое\". Проверьте источник: Дивиденды \"Казахтелекома\" сократились более чем в 80 раз, несмотря на рост прибыли - BES.media",
-                      "link":  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaU5IM2hqdWItcEQzS3RXWG1mMVJYbnRvSjJYMjUzb2Y5dGtsQmo5Mm5DWktWV1R3ODlvamxWU3puZU9JVjRPcEthOWgzREtYN3htNTlVeVBzQkZFLVBUcnlmVGxZWnlYRUdUdWx3aExJOUZ3QlRqN09mcDVfdkEzT2Q5dTYzYWZBUENwczgxcDlnNHdNcDl0QU5jWFFYSnFEOXZ0Si00Yw?oc=5",
-                      "source":  "BES.media",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Казахтелеком",
-                      "topic":  "Другое",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-18T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:42.3085989Z"
-                  },
-                  {
                       "id":  "n_8540c430b4ad3caea360e4e146f69689",
                       "title":  "Билайн разрешил переносить номер онлайн даже после переезда в другой регион России - www1.ru",
                       "summary":  "Новость: Beeline, тема \"Другое\". Проверьте источник: Билайн разрешил переносить номер онлайн даже после переезда в другой регион России - www1.ru",
@@ -2488,6 +2501,19 @@
                       "savedAt":  "2026-07-03T21:45:18.0149384Z"
                   },
                   {
+                      "id":  "n_1a39f3fb23796fa6537f70c406467fde",
+                      "title":  "Дивиденды \"Казахтелекома\" сократились более чем в 80 раз, несмотря на рост прибыли - BES.media",
+                      "summary":  "Новость: Казахтелеком, тема \"Другое\". Проверьте источник: Дивиденды \"Казахтелекома\" сократились более чем в 80 раз, несмотря на рост прибыли - BES.media",
+                      "link":  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaU5IM2hqdWItcEQzS3RXWG1mMVJYbnRvSjJYMjUzb2Y5dGtsQmo5Mm5DWktWV1R3ODlvamxWU3puZU9JVjRPcEthOWgzREtYN3htNTlVeVBzQkZFLVBUcnlmVGxZWnlYRUdUdWx3aExJOUZ3QlRqN09mcDVfdkEzT2Q5dTYzYWZBUENwczgxcDlnNHdNcDl0QU5jWFFYSnFEOXZ0Si00Yw?oc=5",
+                      "source":  "BES.media",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Казахтелеком",
+                      "topic":  "Другое",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-18T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:42.3085989Z"
+                  },
+                  {
                       "id":  "n_58ff51dc809ce9bc66ea10bd7d6921e5",
                       "title":  "Дивиденды \"Казахтелекома\" сократились более чем в 80 раз, несмотря на рост прибыли - BES.media",
                       "summary":  "Новость: Казахтелеком, тема \"Другое\". Проверьте источник: Дивиденды \"Казахтелекома\" сократились более чем в 80 раз, несмотря на рост прибыли - BES.media",
@@ -2499,19 +2525,6 @@
                       "importance":  "low",
                       "publishedAt":  "2026-06-18T07:00:00.0000000Z",
                       "savedAt":  "2026-07-03T08:38:23.7960351Z"
-                  },
-                  {
-                      "id":  "n_e05bd25359777eea74b2a39aa388537d",
-                      "title":  "Тимур Турлов развивает телеком-инфраструктуру Казахстана и открывает для Freedom Holding Corp. новые источники выручки - Газета \"Наш Костанай\" -",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Тимур Турлов развивает телеком-инфраструктуру Казахстана и открывает для Freedom Holding Corp. новые источники выручки - Газета \"Наш Костанай\" -",
-                      "link":  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDFEM2ZJZkl6eDQ4c1NpWG91R3JrT1dhOVNEeGdzREt1eEVPRVZXbGc1Qmo1MzN1MXVKbnNwRnpnb3p2NlRpZDJIQ2JYdUdIZjdVVXdZWjFOY2FVMWZycWJfOExHWEZwRjBVaVdYZkFRNVlkMUxORUxHNW03ejVVb1J3MDlfT2tSdjVCbmtyNTBXZnBobjJ3aHQ3WFh4cC00WkQtTDFGR1J5X3ZfekZCM0tWZ1hOUm1Gd1JUUlkzNjdFYjFWakZFeC1GbHctT29BY2xJTmI2MnY?oc=5",
-                      "source":  "Газета \"Наш Костанай\" -",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-17T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-07T11:22:56.7098691Z"
                   },
                   {
                       "id":  "n_17417a2967f5213a79ef2cca6c01222f",
@@ -2527,6 +2540,19 @@
                       "savedAt":  "2026-07-11T15:33:20.9768653Z"
                   },
                   {
+                      "id":  "n_e05bd25359777eea74b2a39aa388537d",
+                      "title":  "Тимур Турлов развивает телеком-инфраструктуру Казахстана и открывает для Freedom Holding Corp. новые источники выручки - Газета \"Наш Костанай\" -",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Тимур Турлов развивает телеком-инфраструктуру Казахстана и открывает для Freedom Holding Corp. новые источники выручки - Газета \"Наш Костанай\" -",
+                      "link":  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDFEM2ZJZkl6eDQ4c1NpWG91R3JrT1dhOVNEeGdzREt1eEVPRVZXbGc1Qmo1MzN1MXVKbnNwRnpnb3p2NlRpZDJIQ2JYdUdIZjdVVXdZWjFOY2FVMWZycWJfOExHWEZwRjBVaVdYZkFRNVlkMUxORUxHNW03ejVVb1J3MDlfT2tSdjVCbmtyNTBXZnBobjJ3aHQ3WFh4cC00WkQtTDFGR1J5X3ZfekZCM0tWZ1hOUm1Gd1JUUlkzNjdFYjFWakZFeC1GbHctT29BY2xJTmI2MnY?oc=5",
+                      "source":  "Газета \"Наш Костанай\" -",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-17T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-07T11:22:56.7098691Z"
+                  },
+                  {
                       "id":  "n_7bec938d59628c31ab1a33db152de294",
                       "title":  "От 5G до ИИ: американская DFC изучает проекты в Казахстане на миллиарды долларов - nationalbusiness.kz",
                       "summary":  "Важный сигнал: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: От 5G до ИИ: американская DFC изучает проекты в Казахстане на миллиарды долларов - nationalbusiness.kz",
@@ -2538,19 +2564,6 @@
                       "importance":  "high",
                       "publishedAt":  "2026-06-16T07:00:00.0000000Z",
                       "savedAt":  "2026-07-03T17:03:41.0182313Z"
-                  },
-                  {
-                      "id":  "n_88e132cebbcf92302b276dd2484c6a98",
-                      "title":  "Kcell запускает оплату товаров и услуг с баланса мобильного телефона - Tumba.kz",
-                      "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Kcell запускает оплату товаров и услуг с баланса мобильного телефона - Tumba.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWdQdDZFNHVSTUxxVG9BUUlEQUNOOTlZeUFvZ2trWEdJT0l0a19KWlgwYzJPNTdWcVZGSWlsZXVUb0hRdFlnb2wwUTJScC1KQnN2R1ZZNlBsZEV4SXNzTVlQNGIxQVpCMU9IejRVbXF4R0J2ZzhuSkxQQUVpOWt0WHZnZlRMcHFNcGZWeERLcmN5cG9xQS0zaTRrcWNyQmItbVJPdkFVcGdBM3ozSWJCNUF0Y1Q0bHZj?oc=5",
-                      "source":  "Tumba.kz",
-                      "sourceQuery":  "Kcell и Activ",
-                      "operator":  "Kcell / Activ",
-                      "topic":  "Другое",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-16T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-13T18:19:41.8699423Z"
                   },
                   {
                       "id":  "n_bce90c6a571e5450bc18c6ff9c3926ff",
@@ -2566,17 +2579,17 @@
                       "savedAt":  "2026-07-03T08:38:21.2930223Z"
                   },
                   {
-                      "id":  "n_d988fb82c072d23cc462d45f21b7f721",
-                      "title":  "От 5G до ИИ: американская DFC изучает проекты в Казахстане на миллиарды долларов - nationalbusiness.kz",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: От 5G до ИИ: американская DFC изучает проекты в Казахстане на миллиарды долларов - nationalbusiness.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1Fkd0tTZEI3M2Z1eVZNaEdyZWVsaUJEX3lraXZfdjJRbzdSMVJfWjZKckhYcTNYbTllVEkwOG9UMUNHRWU1c3RFaHBZenlUMlp0NThfWFU1dXNuSGEzeUF2RnZaNUliVUZNNFVoRDhGRWN5WWh5YlFPQl9UcHZoQUkyZktGOHJ6OVBNRVNWSGVRYzZFQW5JQzYySlNyQ2EtN0ZENUJDdVprUjBES2dMMnBWQ2swZw?oc=5",
-                      "source":  "nationalbusiness.kz",
-                      "sourceQuery":  "Tele2 и Altel",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "high",
+                      "id":  "n_88e132cebbcf92302b276dd2484c6a98",
+                      "title":  "Kcell запускает оплату товаров и услуг с баланса мобильного телефона - Tumba.kz",
+                      "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Kcell запускает оплату товаров и услуг с баланса мобильного телефона - Tumba.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWdQdDZFNHVSTUxxVG9BUUlEQUNOOTlZeUFvZ2trWEdJT0l0a19KWlgwYzJPNTdWcVZGSWlsZXVUb0hRdFlnb2wwUTJScC1KQnN2R1ZZNlBsZEV4SXNzTVlQNGIxQVpCMU9IejRVbXF4R0J2ZzhuSkxQQUVpOWt0WHZnZlRMcHFNcGZWeERLcmN5cG9xQS0zaTRrcWNyQmItbVJPdkFVcGdBM3ozSWJCNUF0Y1Q0bHZj?oc=5",
+                      "source":  "Tumba.kz",
+                      "sourceQuery":  "Kcell и Activ",
+                      "operator":  "Kcell / Activ",
+                      "topic":  "Другое",
+                      "importance":  "low",
                       "publishedAt":  "2026-06-16T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T08:38:22.7749253Z"
+                      "savedAt":  "2026-07-13T18:19:41.8699423Z"
                   },
                   {
                       "id":  "n_3152f2cf0ef99269f7eb6286c9a0d61e",
@@ -2592,17 +2605,17 @@
                       "savedAt":  "2026-07-03T17:03:39.2187776Z"
                   },
                   {
-                      "id":  "n_56ca2a01e4a5f381291cb6d5bbe9ca21",
-                      "title":  "Kcell запускает оплату товаров и услуг с баланса мобильного телефона - Tumba.kz",
-                      "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Kcell запускает оплату товаров и услуг с баланса мобильного телефона - Tumba.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWdQdDZFNHVSTUxxVG9BUUlEQUNOOTlZeUFvZ2trWEdJT0l0a19KWlgwYzJPNTdWcVZGSWlsZXVUb0hRdFlnb2wwUTJScC1KQnN2R1ZZNlBsZEV4SXNzTVlQNGIxQVpCMU9IejRVbXF4R0J2ZzhuSkxQQUVpOWt0WHZnZlRMcHFNcGZWeERLcmN5cG9xQS0zaTRrcWNyQmItbVJPdkFVcGdBM3ozSWJCNUF0Y1Q0bHZj?oc=5",
-                      "source":  "Tumba.kz",
-                      "sourceQuery":  "Kcell и Activ",
-                      "operator":  "Kcell / Activ",
-                      "topic":  "Другое",
-                      "importance":  "low",
-                      "publishedAt":  "2026-06-16T06:55:00.0000000Z",
-                      "savedAt":  "2026-07-03T08:35:48.4716421Z"
+                      "id":  "n_d988fb82c072d23cc462d45f21b7f721",
+                      "title":  "От 5G до ИИ: американская DFC изучает проекты в Казахстане на миллиарды долларов - nationalbusiness.kz",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: От 5G до ИИ: американская DFC изучает проекты в Казахстане на миллиарды долларов - nationalbusiness.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1Fkd0tTZEI3M2Z1eVZNaEdyZWVsaUJEX3lraXZfdjJRbzdSMVJfWjZKckhYcTNYbTllVEkwOG9UMUNHRWU1c3RFaHBZenlUMlp0NThfWFU1dXNuSGEzeUF2RnZaNUliVUZNNFVoRDhGRWN5WWh5YlFPQl9UcHZoQUkyZktGOHJ6OVBNRVNWSGVRYzZFQW5JQzYySlNyQ2EtN0ZENUJDdVprUjBES2dMMnBWQ2swZw?oc=5",
+                      "source":  "nationalbusiness.kz",
+                      "sourceQuery":  "Tele2 и Altel",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-16T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T08:38:22.7749253Z"
                   },
                   {
                       "id":  "n_bb87c3f5b2d0b1e77c91f55a7712a1db",
@@ -2616,6 +2629,19 @@
                       "importance":  "low",
                       "publishedAt":  "2026-06-16T06:55:00.0000000Z",
                       "savedAt":  "2026-07-03T17:03:39.9583478Z"
+                  },
+                  {
+                      "id":  "n_56ca2a01e4a5f381291cb6d5bbe9ca21",
+                      "title":  "Kcell запускает оплату товаров и услуг с баланса мобильного телефона - Tumba.kz",
+                      "summary":  "Новость: Kcell / Activ, тема \"Другое\". Проверьте источник: Kcell запускает оплату товаров и услуг с баланса мобильного телефона - Tumba.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWdQdDZFNHVSTUxxVG9BUUlEQUNOOTlZeUFvZ2trWEdJT0l0a19KWlgwYzJPNTdWcVZGSWlsZXVUb0hRdFlnb2wwUTJScC1KQnN2R1ZZNlBsZEV4SXNzTVlQNGIxQVpCMU9IejRVbXF4R0J2ZzhuSkxQQUVpOWt0WHZnZlRMcHFNcGZWeERLcmN5cG9xQS0zaTRrcWNyQmItbVJPdkFVcGdBM3ozSWJCNUF0Y1Q0bHZj?oc=5",
+                      "source":  "Tumba.kz",
+                      "sourceQuery":  "Kcell и Activ",
+                      "operator":  "Kcell / Activ",
+                      "topic":  "Другое",
+                      "importance":  "low",
+                      "publishedAt":  "2026-06-16T06:55:00.0000000Z",
+                      "savedAt":  "2026-07-03T08:35:48.4716421Z"
                   },
                   {
                       "id":  "n_4b3eaba7c1448255554339c76ff4d72f",
@@ -2670,19 +2696,6 @@
                       "savedAt":  "2026-07-05T21:37:53.4232491Z"
                   },
                   {
-                      "id":  "n_2bb27583e2729ed47a749da6a6972844",
-                      "title":  "Операторам бросили вызов: ФАС проверит законность рекламы несуществующего 5G - www1.ru",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Операторам бросили вызов: ФАС проверит законность рекламы несуществующего 5G - www1.ru",
-                      "link":  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmk3bUE5TmtwMElzT0R0TDNBd3JVQ09nRjBlclVvY0tHbENDc1RuZzFsWEFicnNWWTJYQW9TMHYyNElxUGR6azY0SlJWNHNERmpHZU9pMldVMWsyYVJGSjgxSGstOHoxdEY0Ql9wclV4cGhINzFCU3R1cUxTR0NUYlMyaE5SeWYyOVBseENadUNrS3NmUEpYN1FJRmc4cUpDTzgtdHE4TlkxbV9acDRPVEtUZ2hXMGPSAbwBQVVfeXFMTThJUWFCTkpKSlZqZXMtbXFTLU5JZHpjSmp4RkFjZVRmODRJLVFRaXFFb2hxcHIyWmJKczVKX0o1NGRNSUZGMEVZcjlaNjAwclVFajlULTRucEFGc2k5QVpfRDMtYVFHMmFwbURmOEN3aVktQVhOeEN1OHpHcVlpcmFuSTNiMDNzZy01ank5eGtNU2h2ZWtONl93bHNGUGtVM1JSbFZkY1pTOUhvVEV1YlZab3QxU1l5WTRJQVE?oc=5",
-                      "source":  "www1.ru",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Регуляторика",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-10T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-13T11:43:14.7952185Z"
-                  },
-                  {
                       "id":  "n_aad24d03396fa31f0ccca23c1ef20144",
                       "title":  "Суд назвал законным право КНБ отключать интернет и связь в Казахстане - Qumash.kz",
                       "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Суд назвал законным право КНБ отключать интернет и связь в Казахстане - Qumash.kz",
@@ -2709,82 +2722,17 @@
                       "savedAt":  "2026-07-03T08:38:23.8188605Z"
                   },
                   {
-                      "id":  "n_eab54ca6a78ab1c6146cd50b7ab14d61",
-                      "title":  "Семейный тариф с интернетом от Activ, Beeline или Tele2: где дешевле для семьи - Finratings",
-                      "summary":  "Важный сигнал: Beeline, тема \"Тарифы\". Проверьте источник: Семейный тариф с интернетом от Activ, Beeline или Tele2: где дешевле для семьи - Finratings",
-                      "link":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjA3bTFha0Y2Q3kzSm53bjFiakllUDlZT3B3VTJ1N18zMWJlMk1QUTlUc25zVlJxenBFb3JUQzgzTEo5RTZEekFKX21Ec1NaQUwySmJ0eXRiaHpwZXZCNEp5aGZWS2hNbHZOZ2VxYTJiZTZDZzVndDdZNzREMEtwSzJMajNNUmFoQXBIM3F5cl9lcGItd1QwUWx6cEczeWlWcXEwZU9XaHh6SndwbmItadIBtAFBVV95cUxQaENXTnZKOXhBTFFkLUlzdUxSM05fM0R3ZWdaeVh1UGNiWVo2YkNmV1RKZ3BiaGFydFNoZVNtajBzX3EzUG5kNTNSSHhYZDM0WThvenJsVmc1RVJpZWR2dEJtWUVSRVFfWllDRFJ3T1JaZEUtVENjTDEtYm1OWHQyRDh6OXJJclhYaTU1TTRWS0ppT2VKTHBPd09RMmU0amt0WmlvM1N3WHRienlmLVYwNUVzb00?oc=5",
-                      "source":  "Finratings",
-                      "sourceQuery":  "Тарифы операторов Казахстана",
-                      "operator":  "Beeline",
-                      "topic":  "Тарифы",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:38.0327995Z"
-                  },
-                  {
-                      "id":  "n_b93c67bf856b45ff55ce91a300b8781f",
-                      "title":  "Более 25 тысяч человек в четырёх регионах Казахстана остались без связи и интернета - BES.media",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Более 25 тысяч человек в четырёх регионах Казахстана остались без связи и интернета - BES.media",
-                      "link":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMThHelpQQUVrSWUwaVIwMmI4Nld1YTU0RVJ6a1VVUjZWeFVaSGljMU1tbEZhQjhpczE1TXc1bkVTTnVjUkFmbUtLdlowV2xWUXZmRVFtSU1xb0xGZDJmZGI2UWtZN1Z4b3dWbVFHOVZhdDdrRVVTWFlzb0hXSXIzYUxzMjBnbUFOcEVDTkNOX2ZEMzBOYlp0aExwVzBFbjFoRElUX3VWRE5YZ21ocjZVcU93?oc=5",
-                      "source":  "BES.media",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T08:35:51.0085048Z"
-                  },
-                  {
-                      "id":  "n_5f4288ce6bca87bf75f1f5b673c4395b",
-                      "title":  "ЕЭК работает над внедрением справедливых тарифов в роуминге для стран ЕАЭС - PROFIT.kz",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: ЕЭК работает над внедрением справедливых тарифов в роуминге для стран ЕАЭС - PROFIT.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDZya2RMRjlpX1NPcDJRcTJOTDVCVlQtaEVDaUlDSFFUbWFlTXVxRk1zM2xRLW1xMkFhdzRGek1zR1M2U2l0U25NWEFaal94TUc1SGFoakpwRjU4NXFTR2djSkN3aWJGWDB4ZEVXbC0xVFl1Z3EtS1RpekN0elNYeWttN3NldVVmdko4VDV2ZVc2Wk14NlR3bDQ5NG1OWHljYlJWOTEzY1k?oc=5",
-                      "source":  "PROFIT.kz",
+                      "id":  "n_2bb27583e2729ed47a749da6a6972844",
+                      "title":  "Операторам бросили вызов: ФАС проверит законность рекламы несуществующего 5G - www1.ru",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Операторам бросили вызов: ФАС проверит законность рекламы несуществующего 5G - www1.ru",
+                      "link":  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmk3bUE5TmtwMElzT0R0TDNBd3JVQ09nRjBlclVvY0tHbENDc1RuZzFsWEFicnNWWTJYQW9TMHYyNElxUGR6azY0SlJWNHNERmpHZU9pMldVMWsyYVJGSjgxSGstOHoxdEY0Ql9wclV4cGhINzFCU3R1cUxTR0NUYlMyaE5SeWYyOVBseENadUNrS3NmUEpYN1FJRmc4cUpDTzgtdHE4TlkxbV9acDRPVEtUZ2hXMGPSAbwBQVVfeXFMTThJUWFCTkpKSlZqZXMtbXFTLU5JZHpjSmp4RkFjZVRmODRJLVFRaXFFb2hxcHIyWmJKczVKX0o1NGRNSUZGMEVZcjlaNjAwclVFajlULTRucEFGc2k5QVpfRDMtYVFHMmFwbURmOEN3aVktQVhOeEN1OHpHcVlpcmFuSTNiMDNzZy01ank5eGtNU2h2ZWtONl93bHNGUGtVM1JSbFZkY1pTOUhvVEV1YlZab3QxU1l5WTRJQVE?oc=5",
+                      "source":  "www1.ru",
                       "sourceQuery":  "Регуляторика телеком Казахстан",
                       "operator":  "Рынок Казахстана",
-                      "topic":  "Тарифы",
+                      "topic":  "Регуляторика",
                       "importance":  "high",
-                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-11T20:31:45.6188872Z"
-                  },
-                  {
-                      "id":  "n_f99daf179de0b8dbe87f9cf3197f4b76",
-                      "title":  "В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - DKNews.kz",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - DKNews.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkpyWnRJNU5NNThKbXJQTXNVaWNkWjdrakpNekxCTy1vMU9yc1pUak00Q3hzd2ZOZ3BGVGZObFRIelQ5eldESWR0NUtCQWRvYlZ1Q01yZXBXUzltVmlHLWxqTVpXZVRRTi1BRmw4R2U2dnQ1dy1ianFQLVd0QWZHdVRhZ3A3QjJpZUE?oc=5",
-                      "source":  "DKNews.kz",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Тарифы",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-04T09:10:24.0339292Z"
-                  },
-                  {
-                      "id":  "n_44d6e9ac5537375bfd20aa113d892f70",
-                      "title":  "В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - Деловой Казахстан",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - Деловой Казахстан",
-                      "link":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkpyWnRJNU5NNThKbXJQTXNVaWNkWjdrakpNekxCTy1vMU9yc1pUak00Q3hzd2ZOZ3BGVGZObFRIelQ5eldESWR0NUtCQWRvYlZ1Q01yZXBXUzltVmlHLWxqTVpXZVRRTi1BRmw4R2U2dnQ1dy1ianFQLVd0QWZHdVRhZ3A3QjJpZUE?oc=5",
-                      "source":  "Деловой Казахстан",
-                      "sourceQuery":  "Регуляторика телеком Казахстан",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Тарифы",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:43.6243193Z"
-                  },
-                  {
-                      "id":  "n_71ef5fd863488419b22fbb9fadf65e0b",
-                      "title":  "Семейный тариф с интернетом от Activ, Beeline или Tele2: где дешевле для семьи - Finratings",
-                      "summary":  "Важный сигнал: Beeline, тема \"Тарифы\". Проверьте источник: Семейный тариф с интернетом от Activ, Beeline или Tele2: где дешевле для семьи - Finratings",
-                      "link":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjA3bTFha0Y2Q3kzSm53bjFiakllUDlZT3B3VTJ1N18zMWJlMk1QUTlUc25zVlJxenBFb3JUQzgzTEo5RTZEekFKX21Ec1NaQUwySmJ0eXRiaHpwZXZCNEp5aGZWS2hNbHZOZ2VxYTJiZTZDZzVndDdZNzREMEtwSzJMajNNUmFoQXBIM3F5cl9lcGItd1QwUWx6cEczeWlWcXEwZU9XaHh6SndwbmItadIBtAFBVV95cUxQaENXTnZKOXhBTFFkLUlzdUxSM05fM0R3ZWdaeVh1UGNiWVo2YkNmV1RKZ3BiaGFydFNoZVNtajBzX3EzUG5kNTNSSHhYZDM0WThvenJsVmc1RVJpZWR2dEJtWUVSRVFfWllDRFJ3T1JaZEUtVENjTDEtYm1OWHQyRDh6OXJJclhYaTU1TTRWS0ppT2VKTHBPd09RMmU0amt0WmlvM1N3WHRienlmLVYwNUVzb00?oc=5",
-                      "source":  "Finratings",
-                      "sourceQuery":  "Kcell и Activ",
-                      "operator":  "Beeline",
-                      "topic":  "Тарифы",
-                      "importance":  "high",
-                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T08:35:48.4716421Z"
+                      "publishedAt":  "2026-06-10T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-13T11:43:14.7952185Z"
                   },
                   {
                       "id":  "n_33c98403c6b95417b8e2f2876b357a1c",
@@ -2800,6 +2748,32 @@
                       "savedAt":  "2026-07-05T21:37:53.4408579Z"
                   },
                   {
+                      "id":  "n_44d6e9ac5537375bfd20aa113d892f70",
+                      "title":  "В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - Деловой Казахстан",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - Деловой Казахстан",
+                      "link":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkpyWnRJNU5NNThKbXJQTXNVaWNkWjdrakpNekxCTy1vMU9yc1pUak00Q3hzd2ZOZ3BGVGZObFRIelQ5eldESWR0NUtCQWRvYlZ1Q01yZXBXUzltVmlHLWxqTVpXZVRRTi1BRmw4R2U2dnQ1dy1ianFQLVd0QWZHdVRhZ3A3QjJpZUE?oc=5",
+                      "source":  "Деловой Казахстан",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Тарифы",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:43.6243193Z"
+                  },
+                  {
+                      "id":  "n_f99daf179de0b8dbe87f9cf3197f4b76",
+                      "title":  "В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - DKNews.kz",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - DKNews.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkpyWnRJNU5NNThKbXJQTXNVaWNkWjdrakpNekxCTy1vMU9yc1pUak00Q3hzd2ZOZ3BGVGZObFRIelQ5eldESWR0NUtCQWRvYlZ1Q01yZXBXUzltVmlHLWxqTVpXZVRRTi1BRmw4R2U2dnQ1dy1ianFQLVd0QWZHdVRhZ3A3QjJpZUE?oc=5",
+                      "source":  "DKNews.kz",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Тарифы",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-04T09:10:24.0339292Z"
+                  },
+                  {
                       "id":  "n_29c140bebe2607f16f71933cd43c8999",
                       "title":  "Более 25 тысяч человек в четырёх регионах Казахстана остались без связи и интернета - BES.media",
                       "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Более 25 тысяч человек в четырёх регионах Казахстана остались без связи и интернета - BES.media",
@@ -2813,6 +2787,19 @@
                       "savedAt":  "2026-07-03T17:03:42.3043148Z"
                   },
                   {
+                      "id":  "n_5f4288ce6bca87bf75f1f5b673c4395b",
+                      "title":  "ЕЭК работает над внедрением справедливых тарифов в роуминге для стран ЕАЭС - PROFIT.kz",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: ЕЭК работает над внедрением справедливых тарифов в роуминге для стран ЕАЭС - PROFIT.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDZya2RMRjlpX1NPcDJRcTJOTDVCVlQtaEVDaUlDSFFUbWFlTXVxRk1zM2xRLW1xMkFhdzRGek1zR1M2U2l0U25NWEFaal94TUc1SGFoakpwRjU4NXFTR2djSkN3aWJGWDB4ZEVXbC0xVFl1Z3EtS1RpekN0elNYeWttN3NldVVmdko4VDV2ZVc2Wk14NlR3bDQ5NG1OWHljYlJWOTEzY1k?oc=5",
+                      "source":  "PROFIT.kz",
+                      "sourceQuery":  "Регуляторика телеком Казахстан",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Тарифы",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-11T20:31:45.6188872Z"
+                  },
+                  {
                       "id":  "n_a417998c988b9a818869663be5c2d582",
                       "title":  "В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - DKNews.kz",
                       "summary":  "Важный сигнал: Рынок Казахстана, тема \"Тарифы\". Проверьте источник: В ЕАЭС разрабатывают справедливые тарифы на мобильную связь - DKNews.kz",
@@ -2824,6 +2811,71 @@
                       "importance":  "high",
                       "publishedAt":  "2026-06-09T07:00:00.0000000Z",
                       "savedAt":  "2026-07-03T08:38:24.7838164Z"
+                  },
+                  {
+                      "id":  "n_b93c67bf856b45ff55ce91a300b8781f",
+                      "title":  "Более 25 тысяч человек в четырёх регионах Казахстана остались без связи и интернета - BES.media",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Более 25 тысяч человек в четырёх регионах Казахстана остались без связи и интернета - BES.media",
+                      "link":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMThHelpQQUVrSWUwaVIwMmI4Nld1YTU0RVJ6a1VVUjZWeFVaSGljMU1tbEZhQjhpczE1TXc1bkVTTnVjUkFmbUtLdlowV2xWUXZmRVFtSU1xb0xGZDJmZGI2UWtZN1Z4b3dWbVFHOVZhdDdrRVVTWFlzb0hXSXIzYUxzMjBnbUFOcEVDTkNOX2ZEMzBOYlp0aExwVzBFbjFoRElUX3VWRE5YZ21ocjZVcU93?oc=5",
+                      "source":  "BES.media",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T08:35:51.0085048Z"
+                  },
+                  {
+                      "id":  "n_71ef5fd863488419b22fbb9fadf65e0b",
+                      "title":  "Семейный тариф с интернетом от Activ, Beeline или Tele2: где дешевле для семьи - Finratings",
+                      "summary":  "Важный сигнал: Beeline, тема \"Тарифы\". Проверьте источник: Семейный тариф с интернетом от Activ, Beeline или Tele2: где дешевле для семьи - Finratings",
+                      "link":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjA3bTFha0Y2Q3kzSm53bjFiakllUDlZT3B3VTJ1N18zMWJlMk1QUTlUc25zVlJxenBFb3JUQzgzTEo5RTZEekFKX21Ec1NaQUwySmJ0eXRiaHpwZXZCNEp5aGZWS2hNbHZOZ2VxYTJiZTZDZzVndDdZNzREMEtwSzJMajNNUmFoQXBIM3F5cl9lcGItd1QwUWx6cEczeWlWcXEwZU9XaHh6SndwbmItadIBtAFBVV95cUxQaENXTnZKOXhBTFFkLUlzdUxSM05fM0R3ZWdaeVh1UGNiWVo2YkNmV1RKZ3BiaGFydFNoZVNtajBzX3EzUG5kNTNSSHhYZDM0WThvenJsVmc1RVJpZWR2dEJtWUVSRVFfWllDRFJ3T1JaZEUtVENjTDEtYm1OWHQyRDh6OXJJclhYaTU1TTRWS0ppT2VKTHBPd09RMmU0amt0WmlvM1N3WHRienlmLVYwNUVzb00?oc=5",
+                      "source":  "Finratings",
+                      "sourceQuery":  "Kcell и Activ",
+                      "operator":  "Beeline",
+                      "topic":  "Тарифы",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T08:35:48.4716421Z"
+                  },
+                  {
+                      "id":  "n_eab54ca6a78ab1c6146cd50b7ab14d61",
+                      "title":  "Семейный тариф с интернетом от Activ, Beeline или Tele2: где дешевле для семьи - Finratings",
+                      "summary":  "Важный сигнал: Beeline, тема \"Тарифы\". Проверьте источник: Семейный тариф с интернетом от Activ, Beeline или Tele2: где дешевле для семьи - Finratings",
+                      "link":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjA3bTFha0Y2Q3kzSm53bjFiakllUDlZT3B3VTJ1N18zMWJlMk1QUTlUc25zVlJxenBFb3JUQzgzTEo5RTZEekFKX21Ec1NaQUwySmJ0eXRiaHpwZXZCNEp5aGZWS2hNbHZOZ2VxYTJiZTZDZzVndDdZNzREMEtwSzJMajNNUmFoQXBIM3F5cl9lcGItd1QwUWx6cEczeWlWcXEwZU9XaHh6SndwbmItadIBtAFBVV95cUxQaENXTnZKOXhBTFFkLUlzdUxSM05fM0R3ZWdaeVh1UGNiWVo2YkNmV1RKZ3BiaGFydFNoZVNtajBzX3EzUG5kNTNSSHhYZDM0WThvenJsVmc1RVJpZWR2dEJtWUVSRVFfWllDRFJ3T1JaZEUtVENjTDEtYm1OWHQyRDh6OXJJclhYaTU1TTRWS0ppT2VKTHBPd09RMmU0amt0WmlvM1N3WHRienlmLVYwNUVzb00?oc=5",
+                      "source":  "Finratings",
+                      "sourceQuery":  "Тарифы операторов Казахстана",
+                      "operator":  "Beeline",
+                      "topic":  "Тарифы",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-09T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:38.0327995Z"
+                  },
+                  {
+                      "id":  "n_e5328775921449bfd48aa288ee0d4841",
+                      "title":  "Усть-Каменогорск – Перебои в работе ряда интернет-сервисов в Казахстане связаны с аварией на линии связи - Yk.kz",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Усть-Каменогорск – Перебои в работе ряда интернет-сервисов в Казахстане связаны с аварией на линии связи - Yk.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUhrbjh2SkR0WnlIQ1lZaGRHcWJXRU5yOG5NQlpUcnZ5QkVRMUt0M3oya3FJVDZkMmlFRFQxOUJRNWlnUEhFVWJhTC0taGFEdVBpaUt4RWNvOTl1TUdxbU5xYlRBdEF3amRxdHdpa05JUVQzd3JWR0I3a1Fqb2hzX0J2R2I3MWVWUVVYeHBidzFlbGxxUkVaakQyV1I0bG9PeDZRWFJMc2tMcnB2MFhFQl9xcEswYUxKYTI0VFBudngtYWRBejk1dHcxWQ?oc=5",
+                      "source":  "Yk.kz",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-06-08T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-17T07:35:07.2592718Z"
+                  },
+                  {
+                      "id":  "n_3677707d57bbfca239674569afaed500",
+                      "title":  "Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - newtimes.kz",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - newtimes.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlNEZUZZTDJoT0NDNF9Fc21Oc3ZtRml0UjdPaV9vbG1RTHpreGtyMVEyejJudWc0RVUxc0U3d0xPRENKazZSakZJcTllSkduekx4aVA4ZjVGTllsbFdpQ1hROXpWTUZpTzZpRFRTSEsycUltWE9kYUhWYkhNX0JfQkE1N3k2NVBidzZxWEpLOWF2REhTV0hVa05oWEJBUGgySlpNVm81ZF9WNno4MzZiZlFpZlRETER0R2xSX0dNLUQ0Q25HVldR?oc=5",
+                      "source":  "newtimes.kz",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-06-08T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:42.3259279Z"
                   },
                   {
                       "id":  "n_535353257c6aa6f8578d670b09f4ec25",
@@ -2878,19 +2930,6 @@
                       "savedAt":  "2026-07-14T07:24:41.0164770Z"
                   },
                   {
-                      "id":  "n_3677707d57bbfca239674569afaed500",
-                      "title":  "Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - newtimes.kz",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - newtimes.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlNEZUZZTDJoT0NDNF9Fc21Oc3ZtRml0UjdPaV9vbG1RTHpreGtyMVEyejJudWc0RVUxc0U3d0xPRENKazZSakZJcTllSkduekx4aVA4ZjVGTllsbFdpQ1hROXpWTUZpTzZpRFRTSEsycUltWE9kYUhWYkhNX0JfQkE1N3k2NVBidzZxWEpLOWF2REhTV0hVa05oWEJBUGgySlpNVm81ZF9WNno4MzZiZlFpZlRETER0R2xSX0dNLUQ0Q25HVldR?oc=5",
-                      "source":  "newtimes.kz",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-08T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:42.3259279Z"
-                  },
-                  {
                       "id":  "n_2ae868b25a1d221a47be8301c0855bd6",
                       "title":  "ФТС опровергла связь пробки на границе с Казахстаном с работой российской таможни - TKS.RU",
                       "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: ФТС опровергла связь пробки на границе с Казахстаном с работой российской таможни - TKS.RU",
@@ -2902,19 +2941,6 @@
                       "importance":  "high",
                       "publishedAt":  "2026-06-08T07:00:00.0000000Z",
                       "savedAt":  "2026-07-04T15:46:49.6999399Z"
-                  },
-                  {
-                      "id":  "n_e5328775921449bfd48aa288ee0d4841",
-                      "title":  "Усть-Каменогорск – Перебои в работе ряда интернет-сервисов в Казахстане связаны с аварией на линии связи - Yk.kz",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Усть-Каменогорск – Перебои в работе ряда интернет-сервисов в Казахстане связаны с аварией на линии связи - Yk.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUhrbjh2SkR0WnlIQ1lZaGRHcWJXRU5yOG5NQlpUcnZ5QkVRMUt0M3oya3FJVDZkMmlFRFQxOUJRNWlnUEhFVWJhTC0taGFEdVBpaUt4RWNvOTl1TUdxbU5xYlRBdEF3amRxdHdpa05JUVQzd3JWR0I3a1Fqb2hzX0J2R2I3MWVWUVVYeHBidzFlbGxxUkVaakQyV1I0bG9PeDZRWFJMc2tMcnB2MFhFQl9xcEswYUxKYTI0VFBudngtYWRBejk1dHcxWQ?oc=5",
-                      "source":  "Yk.kz",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-08T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-17T07:35:07.2592718Z"
                   },
                   {
                       "id":  "n_f82b1ad3b786267ace3aecd2dfeec6e8",
@@ -2930,6 +2956,32 @@
                       "savedAt":  "2026-07-13T11:43:13.5783306Z"
                   },
                   {
+                      "id":  "n_7246a265bc8c0544ab98467c27d4eb95",
+                      "title":  "Проблемы с интернетом и сотовой связью в Казахстане объяснили в министерстве ИИ - Central Media 24/7",
+                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Проблемы с интернетом и сотовой связью в Казахстане объяснили в министерстве ИИ - Central Media 24/7",
+                      "link":  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOek9peWhLbHEtOXdTXzBLQTdBYVZQRXFpeTlmZXNqMWxHZkJlUnJkN0N4cDlGa0twaThha3hIVUhieFV2Z3ByZW16bG1hUXFqVnVydENFa1plU1cxQzZuQ1VaeFpzTmlWX0NpM3BrSHlCT3E4RllhbmJ0dF9YNkIzWENTYnRwT1BuYUJ4YS1uQXJ2bDdKQlRHQ3VncHd3MmVrUWQwTnpnQ2VILW_SAbMBQVVfeXFMT0ZKTElDUEY3UXVMelZId1R2QkNIMmZXckJ4WTFaRnNtcUc0Vm9tZ3dhQzBEWllIektUYTh5ZEVqVWRVelNEZ1poc0Y0VXJDSUM5ZmJzRzZNQ3lBby1HOHRDcEMwZWo4T01hVFh5bW91WTlGRVp2VzZsLWlzTW9La0NkWVVEWEtfcVR6TnZQOS1UZVR5SmE0a3Qzd0lhTGQxeXJJdDVQMjhMS3ZlbFh2VmxnS00?oc=5",
+                      "source":  "Central Media 24/7",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Регуляторика",
+                      "importance":  "high",
+                      "publishedAt":  "2026-06-07T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T08:35:51.0241167Z"
+                  },
+                  {
+                      "id":  "n_85b019745f905edbf6ef69bdaae798e2",
+                      "title":  "Проблемы с интернетом и сотовой связью наблюдаются по всему Казахстану - Central Media 24/7",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Проблемы с интернетом и сотовой связью наблюдаются по всему Казахстану - Central Media 24/7",
+                      "link":  "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVE1DR3ZueFZiZmhIRWtsZUZPeUNlUjNyRWIyOF9WNW5aYWkzMWNwVTRSbFhtSlZIOEZFSlQxVC0zU0RiZ3MtNDJBY3p2VlJIakc4bG5pVmJmQnd1dXVCMUZLajQ5S2hxYkJfZFM4amQtRml4c01kRlJTUUxlbVhvSWFMUUt3MFNRaFNBWHA3Y2lrdDd1VjMzTXREMktuX2d5eF9J0gGrAUFVX3lxTFAtM0hMNko2NDBacGtpS0h0UjRicENNM2hMYXgwRkFxM3VSUGNOVVE2aVhNOHJmOGgzSWRVdDJNYkxjTERzTHJ6eUlNZDdOMHpfRkhSNVNPSTRTZDZGSlFDb3ktVUUzd2pFUmpJbVNvQk51QzEyZ2Nzand0X2l3WWNIWU9RMVVYSkRyUFdTcEVBZjVSdmZkWXdqQzlWa3JyUmpHUTRxTFZXOHBVTQ?oc=5",
+                      "source":  "Central Media 24/7",
+                      "sourceQuery":  "Казахтелеком",
+                      "operator":  "Рынок Казахстана",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
+                      "publishedAt":  "2026-06-07T07:00:00.0000000Z",
+                      "savedAt":  "2026-07-03T17:03:42.3201517Z"
+                  },
+                  {
                       "id":  "n_663d7c5db927f384882809c8adbbd2a4",
                       "title":  "Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - Vlast.kz",
                       "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - Vlast.kz",
@@ -2943,17 +2995,17 @@
                       "savedAt":  "2026-07-03T08:38:23.8151477Z"
                   },
                   {
-                      "id":  "n_7246a265bc8c0544ab98467c27d4eb95",
-                      "title":  "Проблемы с интернетом и сотовой связью в Казахстане объяснили в министерстве ИИ - Central Media 24/7",
-                      "summary":  "Важный сигнал: Рынок Казахстана, тема \"Регуляторика\". Проверьте источник: Проблемы с интернетом и сотовой связью в Казахстане объяснили в министерстве ИИ - Central Media 24/7",
-                      "link":  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOek9peWhLbHEtOXdTXzBLQTdBYVZQRXFpeTlmZXNqMWxHZkJlUnJkN0N4cDlGa0twaThha3hIVUhieFV2Z3ByZW16bG1hUXFqVnVydENFa1plU1cxQzZuQ1VaeFpzTmlWX0NpM3BrSHlCT3E4RllhbmJ0dF9YNkIzWENTYnRwT1BuYUJ4YS1uQXJ2bDdKQlRHQ3VncHd3MmVrUWQwTnpnQ2VILW_SAbMBQVVfeXFMT0ZKTElDUEY3UXVMelZId1R2QkNIMmZXckJ4WTFaRnNtcUc0Vm9tZ3dhQzBEWllIektUYTh5ZEVqVWRVelNEZ1poc0Y0VXJDSUM5ZmJzRzZNQ3lBby1HOHRDcEMwZWo4T01hVFh5bW91WTlGRVp2VzZsLWlzTW9La0NkWVVEWEtfcVR6TnZQOS1UZVR5SmE0a3Qzd0lhTGQxeXJJdDVQMjhMS3ZlbFh2VmxnS00?oc=5",
-                      "source":  "Central Media 24/7",
+                      "id":  "n_37ab8ff10b643c7d6b2191e7c3fce2a1",
+                      "title":  "Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - Vlast.kz",
+                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - Vlast.kz",
+                      "link":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmFTQVpkRlFXSFZzMU9JaWZhZ3pMUUlGRjZZS1Y2QnNUNWc4ZVoyNWs1TmRNeXdnSXppam9IQ3hoYlNNdERlbEhFUl9ldTFIX21jcTJNVGRaTVFldkk2Uk1UVWl1V1pwcm9fdkhVRHItTldEV0tOb1BzMkc0RDBUUEFHYzc0ZU1pYXdDdkFpaDZWaE1FUTI2dUJjWXVWaTlmVTR0eFgtOHBnVEtLZ01uLUJ5RDRqTjFna1d2Z1p30gHDAUFVX3lxTE85MUJ1RFljaWxYdDBxNHZqamRsSTZTQ00wQzA1andISTNOR1VKdDZoWlZ6LThjUW5xOEo3MkZZUlF4S3FjanVGeFZSWS1yVURKZkR5azcyS0Y3YXdMWWdzeFZPcGl2MzJGeWREcklLY3duR3BCUElobEVvTjljZUZxN2pmZmV6VnhsaDJKbzVUN2d1V184YnVWRGwwUWd0Z2VqajdBbDVBRTF5ZWN2YTZKRl9vLVpzb0NBQ21FcTFaV0gxTQ?oc=5",
+                      "source":  "Vlast.kz",
                       "sourceQuery":  "Казахтелеком",
                       "operator":  "Рынок Казахстана",
-                      "topic":  "Регуляторика",
-                      "importance":  "high",
+                      "topic":  "Инфраструктура",
+                      "importance":  "medium",
                       "publishedAt":  "2026-06-07T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T08:35:51.0241167Z"
+                      "savedAt":  "2026-07-03T17:03:42.3259279Z"
                   },
                   {
                       "id":  "n_694da5aabf2b232521ab8b6eb11f7fe5",
@@ -2980,32 +3032,6 @@
                       "importance":  "medium",
                       "publishedAt":  "2026-06-07T07:00:00.0000000Z",
                       "savedAt":  "2026-07-03T08:35:51.0241167Z"
-                  },
-                  {
-                      "id":  "n_85b019745f905edbf6ef69bdaae798e2",
-                      "title":  "Проблемы с интернетом и сотовой связью наблюдаются по всему Казахстану - Central Media 24/7",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Проблемы с интернетом и сотовой связью наблюдаются по всему Казахстану - Central Media 24/7",
-                      "link":  "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVE1DR3ZueFZiZmhIRWtsZUZPeUNlUjNyRWIyOF9WNW5aYWkzMWNwVTRSbFhtSlZIOEZFSlQxVC0zU0RiZ3MtNDJBY3p2VlJIakc4bG5pVmJmQnd1dXVCMUZLajQ5S2hxYkJfZFM4amQtRml4c01kRlJTUUxlbVhvSWFMUUt3MFNRaFNBWHA3Y2lrdDd1VjMzTXREMktuX2d5eF9J0gGrAUFVX3lxTFAtM0hMNko2NDBacGtpS0h0UjRicENNM2hMYXgwRkFxM3VSUGNOVVE2aVhNOHJmOGgzSWRVdDJNYkxjTERzTHJ6eUlNZDdOMHpfRkhSNVNPSTRTZDZGSlFDb3ktVUUzd2pFUmpJbVNvQk51QzEyZ2Nzand0X2l3WWNIWU9RMVVYSkRyUFdTcEVBZjVSdmZkWXdqQzlWa3JyUmpHUTRxTFZXOHBVTQ?oc=5",
-                      "source":  "Central Media 24/7",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-07T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:42.3201517Z"
-                  },
-                  {
-                      "id":  "n_37ab8ff10b643c7d6b2191e7c3fce2a1",
-                      "title":  "Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - Vlast.kz",
-                      "summary":  "Новость: Рынок Казахстана, тема \"Инфраструктура\". Проверьте источник: Перебои с интернетом в Казахстане возникли из-за повреждения магистральной линии связи - Vlast.kz",
-                      "link":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmFTQVpkRlFXSFZzMU9JaWZhZ3pMUUlGRjZZS1Y2QnNUNWc4ZVoyNWs1TmRNeXdnSXppam9IQ3hoYlNNdERlbEhFUl9ldTFIX21jcTJNVGRaTVFldkk2Uk1UVWl1V1pwcm9fdkhVRHItTldEV0tOb1BzMkc0RDBUUEFHYzc0ZU1pYXdDdkFpaDZWaE1FUTI2dUJjWXVWaTlmVTR0eFgtOHBnVEtLZ01uLUJ5RDRqTjFna1d2Z1p30gHDAUFVX3lxTE85MUJ1RFljaWxYdDBxNHZqamRsSTZTQ00wQzA1andISTNOR1VKdDZoWlZ6LThjUW5xOEo3MkZZUlF4S3FjanVGeFZSWS1yVURKZkR5azcyS0Y3YXdMWWdzeFZPcGl2MzJGeWREcklLY3duR3BCUElobEVvTjljZUZxN2pmZmV6VnhsaDJKbzVUN2d1V184YnVWRGwwUWd0Z2VqajdBbDVBRTF5ZWN2YTZKRl9vLVpzb0NBQ21FcTFaV0gxTQ?oc=5",
-                      "source":  "Vlast.kz",
-                      "sourceQuery":  "Казахтелеком",
-                      "operator":  "Рынок Казахстана",
-                      "topic":  "Инфраструктура",
-                      "importance":  "medium",
-                      "publishedAt":  "2026-06-07T07:00:00.0000000Z",
-                      "savedAt":  "2026-07-03T17:03:42.3259279Z"
                   },
                   {
                       "id":  "n_f98a03c1fb1249dc07e69ca54a9a5656",
