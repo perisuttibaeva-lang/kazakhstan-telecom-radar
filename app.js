@@ -79,6 +79,15 @@ function pluralNews(count) {
 }
 
 async function detectApiBase() {
+  const host = window.location.hostname;
+  const isPublishedStaticSite = host.endsWith("github.io");
+
+  if (isPublishedStaticSite) {
+    state.staticMode = true;
+    state.apiBase = "";
+    return;
+  }
+
   const candidates =
     window.location.protocol === "file:"
       ? ["http://localhost:3001", "http://localhost:3000"]
@@ -87,8 +96,10 @@ async function detectApiBase() {
   for (const base of candidates) {
     try {
       const response = await fetch(`${base}/api/news`, { cache: "no-store" });
-      if (response.ok) {
+      const contentType = response.headers.get("content-type") || "";
+      if (response.ok && contentType.includes("application/json")) {
         state.apiBase = base;
+        state.staticMode = false;
         return;
       }
     } catch {
@@ -101,8 +112,13 @@ async function detectApiBase() {
 }
 
 async function api(path, options) {
+  if (!state.staticMode && window.location.hostname.endsWith("github.io")) {
+    state.staticMode = true;
+    state.apiBase = "";
+  }
+
   if (state.staticMode && path === "/api/news") {
-    const response = await fetch("data/archive.json", { cache: "no-store" });
+    const response = await fetch(`data/archive.json?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error("архив data/archive.json не найден");
     const archive = await response.json();
     return {
@@ -113,9 +129,7 @@ async function api(path, options) {
   }
 
   if (state.staticMode && path === "/api/refresh") {
-    throw new Error(
-      "на GitHub Pages прямой поиск недоступен. Архив обновляется через GitHub Actions или локальный сервер",
-    );
+    return api("/api/news");
   }
 
   if (!state.apiBase && path !== "/api/news") {
@@ -125,7 +139,13 @@ async function api(path, options) {
   const response = await fetch(`${state.apiBase}${path}`, options);
   if (!response.ok) {
     const text = await response.text();
-    throw new Error(text || `Ошибка ${response.status}`);
+    if (path === "/api/refresh" && [405, 404].includes(response.status)) {
+      state.staticMode = true;
+      state.apiBase = "";
+      return api("/api/news");
+    }
+    const plainText = text.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+    throw new Error(plainText || `Ошибка ${response.status}`);
   }
   return response.json();
 }
@@ -137,19 +157,30 @@ async function loadData() {
   state.sources = data.sources || [];
   state.meta = data.meta || {};
   if (state.staticMode) {
-    setStatus("Открыта статическая версия: показан последний опубликованный архив.");
+    const stamp = state.meta.lastRun ? ` Последний срез: ${formatDate(state.meta.lastRun)}.` : "";
+    setStatus(`Открыта опубликованная версия: показан архив GitHub Pages.${stamp}`);
   }
   render();
 }
 
 async function refreshNews() {
-  setStatus("Ищу свежие новости в открытых источниках...", true);
+  setStatus(
+    state.staticMode
+      ? "Обновляю данные из опубликованного архива..."
+      : "Ищу свежие новости в открытых источниках...",
+    true,
+  );
   try {
     const data = await api("/api/refresh", { method: "POST" });
     state.news = data.items || [];
     state.sources = data.sources || [];
     state.meta = data.meta || {};
-    setStatus(`Готово: найдено ${data.added || 0} новых ${pluralNews(data.added || 0)}.`);
+    if (state.staticMode) {
+      const stamp = state.meta.lastRun ? ` Последний срез: ${formatDate(state.meta.lastRun)}.` : "";
+      setStatus(`Архив обновлен из GitHub Pages: ${state.news.length} ${pluralNews(state.news.length)}.${stamp}`);
+    } else {
+      setStatus(`Готово: найдено ${data.added || 0} новых ${pluralNews(data.added || 0)}.`);
+    }
     render();
   } catch (error) {
     setStatus(`Не получилось обновить: ${error.message}`);
@@ -205,7 +236,7 @@ function renderNews() {
 
   if (!items.length) {
     els.newsList.innerHTML =
-      '<div class="empty-box">Новостей по выбранным фильтрам нет. Запустите поиск или измените фильтры.</div>';
+      '<div class="empty-box">Новостей по выбранным фильтрам нет. Измените фильтры или обновите опубликованный архив.</div>';
     return;
   }
 
@@ -239,7 +270,7 @@ function renderSummary() {
   els.summaryList.innerHTML = "";
 
   if (!important.length) {
-    els.summaryList.innerHTML = '<p class="empty">Запустите поиск, чтобы сформировать сводку.</p>';
+    els.summaryList.innerHTML = '<p class="empty">В опубликованном архиве пока нет событий для сводки.</p>';
     return;
   }
 
